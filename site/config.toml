@@ -1,3 +1,19 @@
-baseurl = "/"
+baseURL = "/"
 languageCode = "en-us"
-title = "Homepage"
+title = "Biz Analyst Docs"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "theme-hugo-learn"
+
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir = true
+
+# For search functionnality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+themeVariant = "blue"
+
+# title / weight
+ordersectionsby = "weight"

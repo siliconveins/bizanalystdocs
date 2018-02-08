@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biz Analyst Docs</title>
+    <link>/</link>
+    <description>Recent content on Biz Analyst Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2017 13:56:43 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setup</title>
+      <link>/desktop/setup/</link>
+      <pubDate>Mon, 13 Nov 2017 12:47:09 +0530</pubDate>
+      
+      <guid>/desktop/setup/</guid>
+      <description>System Requirements  Windows 7 or above Windows Server 2008 R2 or above Minimum 4gb RAM, recommended 8gb RAM Minimum 300mb free disk space  Download Download the Biz Analyst Desktop application from here
+Installation Double click the setup file downloaded from the link above and the rest is handled on its own. The application should start by itself after installation is completed and a shortcut is created on your computer desktop.</description>
+    </item>
+    
+    <item>
+      <title>Delete Data</title>
+      <link>/desktop/faqs/delete-data/</link>
+      <pubDate>Mon, 13 Nov 2017 13:18:21 +0530</pubDate>
+      
+      <guid>/desktop/faqs/delete-data/</guid>
+      <description>Overview This deletes your company&amp;rsquo;s data synced with Biz Analyst from our server and your phone. However it does not affect your data on Tally ERP 9.
+&amp;quot;Delete Data&amp;quot; option should be used when you want to sync a company&amp;rsquo;s data from beginning.
+  Steps  Click on Edit Companies on the top blue bar. You should now see a screen as below:
+ Click on Edit button next to the company whose data is to be deleted.</description>
+    </item>
+    
+    <item>
+      <title>Delete Company</title>
+      <link>/desktop/faqs/delete-company/</link>
+      <pubDate>Mon, 13 Nov 2017 13:19:54 +0530</pubDate>
+      
+      <guid>/desktop/faqs/delete-company/</guid>
+      <description>Overview This deletes your company&amp;rsquo;s data and company from Biz Analyst. No data for this company will be synced after deleting the company. The company in Tally ERP 9 will not be affected.
+&amp;quot;Delete Company&amp;quot; option should be used when you no longer want to sync a company&amp;rsquo;s data with Biz Analyst.
+  Steps  Click on Edit Companies on the top blue bar. You should now see a screen as below:</description>
+    </item>
+    
+    <item>
+      <title>Merge Company</title>
+      <link>/desktop/faqs/merge-company/</link>
+      <pubDate>Mon, 13 Nov 2017 13:22:18 +0530</pubDate>
+      
+      <guid>/desktop/faqs/merge-company/</guid>
+      <description>Overview If your campany&amp;rsquo;s name has been changed in Tally ERP 9, you will need to manually map the new name with the company added on Biz Analyst for the data to sync seamlessly.
+Steps  Click on Edit Companies on the top blue bar. You should now see a screen as below:
+ Click on Edit button next to the company which needs to be merged, then click Additional Settings.</description>
+    </item>
+    
+    <item>
+      <title>Reset Password</title>
+      <link>/desktop/faqs/reset-password/</link>
+      <pubDate>Mon, 13 Nov 2017 13:23:36 +0530</pubDate>
+      
+      <guid>/desktop/faqs/reset-password/</guid>
+      <description>Reset Password If you forgot your Biz Analyst account password, then click on the Forgot Password? link from the sign in / sign up screen on the desktop application and then type your registered Email id in the given box, click on send reset link.
+An email will be sent to the Email id provided above with reset password link. Just follow the instructions in the mail to complete the process.</description>
+    </item>
+    
+    <item>
+      <title>Sync Configuration</title>
+      <link>/desktop/settings/sync-configuration/</link>
+      <pubDate>Mon, 13 Nov 2017 13:16:05 +0530</pubDate>
+      
+      <guid>/desktop/settings/sync-configuration/</guid>
+      <description>Sync Interval   By default Biz Analyst checks for any changes in your &amp;quot;Tally ERP 9&amp;quot; data every 5 minutes. You may change this frequency as per your usage. If data is not changed or added often in your Tally ERP 9 then you may increase the sync frequency. If data is changed or added very frequently then decrease the sync frequency so that you get the latest changes on your phone quickly.</description>
+    </item>
+    
+    <item>
+      <title>Tally Odbc Port</title>
+      <link>/desktop/miscellaneous/tally-odbc-port/</link>
+      <pubDate>Mon, 13 Nov 2017 13:25:22 +0530</pubDate>
+      
+      <guid>/desktop/miscellaneous/tally-odbc-port/</guid>
+      <description>Find ODBC Port Check for ODBC Port number on the bottom section of Tally ERP 9 screen inside the configuration box. By default, it should be &amp;quot;9000&amp;quot;. Use this number to setup Tally ERP 9 with Biz Analyst Desktop application.
+If you do not see this port number you can easily setup ODBC port number by following these instructions
+Setup ODBC Port  Click inside the Configuration box located at the bottom right area of the screen.</description>
+    </item>
+    
+    <item>
+      <title>Setup</title>
+      <link>/android/setup/</link>
+      <pubDate>Tue, 14 Nov 2017 17:33:57 +0530</pubDate>
+      
+      <guid>/android/setup/</guid>
+      <description>Download Download the Biz Analyst Android application from here
+On opening the screen, you will be taken to Login Screen. If you have already signed up then click on SIGNIN. If you are using Biz Analyst app for the first time, then you need to signup, hence, click on SIGNUP/ VIEW DEMO.
+1. Sign up Fill in the Sign up form on the Biz Analyst Android application and click on sign up button.</description>
+    </item>
+    
+    <item>
+      <title>Currency</title>
+      <link>/android/settings/currency/</link>
+      <pubDate>Tue, 14 Nov 2017 17:36:37 +0530</pubDate>
+      
+      <guid>/android/settings/currency/</guid>
+      <description>Open the navigation bar and then click on the Settings icon.
+Click on the Currency icon from the list.
+Note: The settings are set according to the current company. So if you want the same setting to be reflected for another company, then you will have to open the other company and configure the currency settings from here
+There are two settings: Default Currency and Currency Format
+1. Default Currency Change the default currency</description>
+    </item>
+    
+    <item>
+      <title>Invoice</title>
+      <link>/android/settings/invoice/</link>
+      <pubDate>Tue, 14 Nov 2017 17:36:42 +0530</pubDate>
+      
+      <guid>/android/settings/invoice/</guid>
+      <description>Open the navigation bar and then click on the Settings icon.
+Click on the Invoice icon from the list to configure the information shown while sharing your invoices.
+You will see a list of configurations and their descriptions. Note: The settings are set according to the current company. So if you want the same setting to be reflected for another company, then you will have to open the other company and configure the invoice share settings from here</description>
+    </item>
+    
+    <item>
+      <title>Outstanding</title>
+      <link>/android/settings/outstanding/</link>
+      <pubDate>Tue, 14 Nov 2017 17:36:52 +0530</pubDate>
+      
+      <guid>/android/settings/outstanding/</guid>
+      <description>Open the navigation bar and then click on the Settings icon.
+Click on the Outstanding icon from the list to configure the information shown while sharing your Outstandings.
+You will see a list of configurations and their descriptions.
+Note: The settings are set according to the current company. So if you want the same setting to be reflected for another company, then you will have to open the other company and configure the outstanding settings from here</description>
+    </item>
+    
+    <item>
+      <title>Ledger Report</title>
+      <link>/android/settings/ledger-report/</link>
+      <pubDate>Tue, 14 Nov 2017 17:37:04 +0530</pubDate>
+      
+      <guid>/android/settings/ledger-report/</guid>
+      <description>Open the navigation bar and then click on the Settings icon.
+Click on the Ledger Report icon from the list to configure the information shown while sharing your reports.
+You will see the option to add narration in the ledger report while sharing.
+Note: The settings are set according to the current company. So if you want the same setting to be reflected for another company, then you will have to open the other company and configure the Ledger Report settings from here</description>
+    </item>
+    
+    <item>
+      <title>Share</title>
+      <link>/android/settings/share/</link>
+      <pubDate>Tue, 14 Nov 2017 17:37:10 +0530</pubDate>
+      
+      <guid>/android/settings/share/</guid>
+      <description>Open the navigation bar and then click on the Settings icon.
+Click on the Share icon from the list to configure the information shown while sharing your reports.
+You will see a list of settings.
+Note: The settings are set according to the current company. So if you want the same setting to be reflected for another company, then you will have to open the other company and configure the invoice share settings from here</description>
+    </item>
+    
+    <item>
+      <title>Default Screen</title>
+      <link>/android/settings/default-screen/</link>
+      <pubDate>Tue, 14 Nov 2017 17:37:19 +0530</pubDate>
+      
+      <guid>/android/settings/default-screen/</guid>
+      <description>Open the navigation bar and then click on the Settings icon.
+Click on the Default Screen icon from the list to configure the information shown while sharing your reports.
+You will see list of default screens. You can configure which screen should you see first when you open the app. Then click on SAVE to save this setting.</description>
+    </item>
+    
+    <item>
+      <title>Date</title>
+      <link>/android/settings/date/</link>
+      <pubDate>Tue, 14 Nov 2017 17:37:25 +0530</pubDate>
+      
+      <guid>/android/settings/date/</guid>
+      <description>Open the navigation bar and then click on the Settings icon.
+Click on the Date Setting icon from the list to configure the information shown while sharing your reports.
+You will see list of settings for default period for showing information and financial year.
+1. Default Date You can change the default period selected for showing the information in the app. Click on the setting to change the default period.</description>
+    </item>
+    
+    <item>
+      <title>Add Passcode</title>
+      <link>/android/faqs/add-passcode/</link>
+      <pubDate>Wed, 15 Nov 2017 09:18:55 +0530</pubDate>
+      
+      <guid>/android/faqs/add-passcode/</guid>
+      <description>Open the navigation bar and then click on the Set Passcode icon.
+Then you enter a 4 digit passcode. You will also be required to re-enter the passcode. Then click on SET. Now this passcode is set for the app.
+Once you exit the app, then the passcode is required to re-enter the app. If you have a fingerprint sensor on your phone then, you can even use that to enter the app.</description>
+    </item>
+    
+    <item>
+      <title>Add User</title>
+      <link>/android/faqs/add-user/</link>
+      <pubDate>Wed, 15 Nov 2017 09:17:09 +0530</pubDate>
+      
+      <guid>/android/faqs/add-user/</guid>
+      <description>Open the navigation bar and then click on the Users icon.
+Note: You will be able to add a user only if you are an admin for the current company. If you are not an admin then you won&amp;rsquo;t be able to see the Users icon in the navigation bar.
+Click on the orange + button
+Enter the name and email id in the given places as shown below. Ensure that you are entering the correct email id.</description>
+    </item>
+    
+    <item>
+      <title>Change Passcode</title>
+      <link>/android/faqs/change-passcode/</link>
+      <pubDate>Wed, 15 Nov 2017 09:19:52 +0530</pubDate>
+      
+      <guid>/android/faqs/change-passcode/</guid>
+      <description>Open the navigation bar and then click on the Passcode icon.
+Now you have to enter the current passcode. Then type the new 4 digit passcode and re-enter it below. Then click on SET. Now this passcode is set for the app.
+Once you exit the app, then the passcode is required to re-enter the app. If you have a fingerprint sensor on your phone then, you can even use that to enter the app.</description>
+    </item>
+    
+    <item>
+      <title>Forgot Password</title>
+      <link>/android/faqs/forgot-password/</link>
+      <pubDate>Wed, 15 Nov 2017 09:19:52 +0530</pubDate>
+      
+      <guid>/android/faqs/forgot-password/</guid>
+      <description>If you have forgotten your password while logging in, then you can click on the Forgot Password to initiate the process to reset it.
+You will now have to confirm the email you used to signup into the app. Ensure that you have entered the correct email. Then click on the SEND RESET LINK button.
+You will be sent an email to entered email address. Please open the email. Click on the RESET PASSWORD button.</description>
+    </item>
+    
+    <item>
+      <title>Manage Permissions</title>
+      <link>/android/faqs/manage-permissions/</link>
+      <pubDate>Wed, 15 Nov 2017 09:17:41 +0530</pubDate>
+      
+      <guid>/android/faqs/manage-permissions/</guid>
+      <description>Open the navigation bar and then click on the Users icon.
+Note: You will be able to add a user only if you are an admin for the current company. If you are not an admin then you won&amp;rsquo;t be able to see the Users icon in the navigation bar.
+Click on the user whose permission you want to change.
+You will be shown the permissions the user has.</description>
+    </item>
+    
+    <item>
+      <title>Remove Demo Company</title>
+      <link>/android/faqs/remove-demo-company/</link>
+      <pubDate>Tue, 21 Nov 2017 17:54:14 +0530</pubDate>
+      
+      <guid>/android/faqs/remove-demo-company/</guid>
+      <description>Open the navigation bar and then click on the Companies icon.
+You will see all the companies for which you have a permission. Select Demo Company.
+You will be automatically taken to the default screen and data for the demo company will be shown.
+Open the navigation bar and then click on the Users icon.
+Then you will see your name in the user list. Click on it.
+Click on the X button.</description>
+    </item>
+    
+    <item>
+      <title>Remove Passcode</title>
+      <link>/android/faqs/remove-passcode/</link>
+      <pubDate>Wed, 15 Nov 2017 09:19:38 +0530</pubDate>
+      
+      <guid>/android/faqs/remove-passcode/</guid>
+      <description>Open the navigation bar and then click on the Passcode icon.
+To remove the passcode, click on the cross mark at the top of the screen.
+To remove the passcode, you will have to first enter the passcode. Then click on remove. If you have a fingerprint sensor on your phone then, you can approve the removal from the fingerprint sensor.</description>
+    </item>
+    
+    <item>
+      <title>Remove User</title>
+      <link>/android/faqs/remove-user/</link>
+      <pubDate>Wed, 15 Nov 2017 09:18:08 +0530</pubDate>
+      
+      <guid>/android/faqs/remove-user/</guid>
+      <description>Open the navigation bar and then click on the Users icon.
+Note: You will be able to add a user only if you are an admin for the current company. If you are not an admin then you won&amp;rsquo;t be able to see the Users icon in the navigation bar.
+Click on the user that you want to remove from the company. You will be shown the permissions the user has.</description>
+    </item>
+    
+    <item>
+      <title>Reset Password</title>
+      <link>/android/faqs/reset-password/</link>
+      <pubDate>Wed, 15 Nov 2017 09:20:19 +0530</pubDate>
+      
+      <guid>/android/faqs/reset-password/</guid>
+      <description>You can even reset the password from inside the app. Open the navigation bar and click on the Forgot Password icon to initiate the process to reset it.
+You will now have to confirm the email you used to signup into the app. Ensure that you have entered the correct email. Then click on the SEND RESET LINK button.
+You will be sent an email to entered email address. Please open the email.</description>
+    </item>
+    
+    <item>
+      <title>Verify Email</title>
+      <link>/android/faqs/verify-email/</link>
+      <pubDate>Thu, 23 Nov 2017 19:19:12 +0530</pubDate>
+      
+      <guid>/android/faqs/verify-email/</guid>
+      <description>After you signup, you will see a message on the app that your email is not verified. This means that we do not know whether an accurate email id was entered.
+After you signup, you will be sent an email with the subject as &amp;ldquo;BizAnalyst Verify Your Email&amp;rdquo;. Click on the VERIFY EMAIL button. Then your email will get verified.
+Click on the message on your mobile.
+Then the message will vanish.</description>
+    </item>
+    
+    <item>
+      <title>Purchase Subscription</title>
+      <link>/android/faqs/purchase-subscription/</link>
+      <pubDate>Thu, 30 Nov 2017 16:23:43 +0530</pubDate>
+      
+      <guid>/android/faqs/purchase-subscription/</guid>
+      <description>Purchase Subscription Click on the Purchase Subscription icon in the navigation bar.
+You will be taken to a web page that displays the various purchase options. By default price for a single device, 1 year is shown. You can see the various 1 year plans in the top of the screen. You can click on the + button to increase the number of devices. You will see the price automatically change in the PAY button.</description>
+    </item>
+    
+    <item>
+      <title>Pending Invoice</title>
+      <link>/android/faqs/pending-invoice/</link>
+      <pubDate>Thu, 30 Nov 2017 16:21:52 +0530</pubDate>
+      
+      <guid>/android/faqs/pending-invoice/</guid>
+      <description>Pending Invoices You can use this to generate an invoice on successful payment if you have not already generated your invoice. Click on the Pending Invoices icon in the navigation bar.
+Click on the payment details for which you want the invoice to be generated.
+You will be taken to the invoice page to generate your invoice. You can edit your invoice only once. So please fill in the details carefully.</description>
+    </item>
+    
+    <item>
+      <title>Cash / Bank Balance</title>
+      <link>/android/screens/cash-bank-balance/</link>
+      <pubDate>Tue, 14 Nov 2017 17:43:19 +0530</pubDate>
+      
+      <guid>/android/screens/cash-bank-balance/</guid>
+      <description>Scroll down on the dashboard screen. Click on the Cash / Bank Balance on the dashboard.
+List finances of the current company for the selected period. You can see in depth report by clicking on one of the items in the list.
+You will be shown all the bank accounts and the amount in them.
+1. How to see which receipt was credited to a bank account? Select the required bank.</description>
+    </item>
+    
+    <item>
+      <title>Dashboard</title>
+      <link>/android/screens/dashboard/</link>
+      <pubDate>Tue, 14 Nov 2017 17:40:28 +0530</pubDate>
+      
+      <guid>/android/screens/dashboard/</guid>
+      <description>Dashboard is the default screen. It shows the total for all sections for selected time period. There following sections on Dashboard.
+ Sales Purchase Receipt Payment Receivable Payable Cash / Bank Balance Sales Order Purchase Order Delivery Note Receipt Note  Last Sync Date shows time of last data fetched from server. On clicking of that bar you can fetch lastest data from server.</description>
+    </item>
+    
+    <item>
+      <title>Items</title>
+      <link>/android/screens/items/</link>
+      <pubDate>Tue, 14 Nov 2017 17:45:31 +0530</pubDate>
+      
+      <guid>/android/screens/items/</guid>
+      <description>Click on the party icon on the dashboard
+You will see a list of parties. Select a Item to see its details
+Now you will see a summary of the transactions with the Item for the selected period
+1. See Items in a Group Click on the GROUP button on the summary screen
+Then you will see the list of Stock Groups
+Then click on the required Stock Group</description>
+    </item>
+    
+    <item>
+      <title>Party</title>
+      <link>/android/screens/party/</link>
+      <pubDate>Tue, 14 Nov 2017 17:45:18 +0530</pubDate>
+      
+      <guid>/android/screens/party/</guid>
+      <description>Click on the party icon on the dashboard
+You will see a list of parties. Select a party to see its details
+Now you will see a summary of the transactions with the party for the selected period
+1. Items Sold to Party Click on the SOLD button on the summary screen
+Then you will see the items sold to the selected party
+2. Items Purchased from Party Click on the PURCHASED button on the summary screen</description>
+    </item>
+    
+    <item>
+      <title>Payable</title>
+      <link>/android/screens/payable/</link>
+      <pubDate>Tue, 14 Nov 2017 17:42:34 +0530</pubDate>
+      
+      <guid>/android/screens/payable/</guid>
+      <description>Scroll down on the dashboard screen. Click on the Payable on the dashboard.
+The payable screen is similar to the Receivable screen. Click here to see the details.</description>
+    </item>
+    
+    <item>
+      <title>Payment</title>
+      <link>/android/screens/payment/</link>
+      <pubDate>Tue, 14 Nov 2017 17:41:51 +0530</pubDate>
+      
+      <guid>/android/screens/payment/</guid>
+      <description>Click on the Payment button on the dashboard
+The Payment screen is similar to the Receipt screen. Click here to see the details.</description>
+    </item>
+    
+    <item>
+      <title>Purchase Order</title>
+      <link>/android/screens/purchase-order/</link>
+      <pubDate>Tue, 14 Nov 2017 17:44:04 +0530</pubDate>
+      
+      <guid>/android/screens/purchase-order/</guid>
+      <description>Click on the Purchase Order button on the dashboard
+The Purchase Order screen is similar to the Sales Order screen. Click here to see the details.</description>
+    </item>
+    
+    <item>
+      <title>Purchase</title>
+      <link>/android/screens/purchase/</link>
+      <pubDate>Tue, 14 Nov 2017 17:41:09 +0530</pubDate>
+      
+      <guid>/android/screens/purchase/</guid>
+      <description>Click on the Purchase button on the dashboard
+The purchase screen is similar to the Receipt screen. Click here to see the details.</description>
+    </item>
+    
+    <item>
+      <title>Receivable</title>
+      <link>/android/screens/receivable/</link>
+      <pubDate>Tue, 14 Nov 2017 17:42:14 +0530</pubDate>
+      
+      <guid>/android/screens/receivable/</guid>
+      <description>Scroll down on the dashboard screen. Click on the Receivable on the dashboard.
+List of receivables grouped by companies are displayed.
+1. How to see a Receivable Voucher/Bill details Click on the selected company.
+You will see a list of vouchers. Select the required voucher.
+The details of the voucher/bill is displayed.
+2. How to see receivables for a particular period? Click on the period filter icon on the screen</description>
+    </item>
+    
+    <item>
+      <title>Receipt</title>
+      <link>/android/screens/receipt/</link>
+      <pubDate>Tue, 14 Nov 2017 17:41:31 +0530</pubDate>
+      
+      <guid>/android/screens/receipt/</guid>
+      <description>Click on the Receipt on the dashboard.
+You will see the total of all receipts grouped by companies for the selected period. The companies are sorted alphabetically. Click on the name of the required company.
+You will see a list of receipts for the company. Now select the receipt whose details you would like to see.
+Now you shall see the details of the selected receipt
+1. How to filter by Receipt type?</description>
+    </item>
+    
+    <item>
+      <title>Sales Order</title>
+      <link>/android/screens/sales-order/</link>
+      <pubDate>Tue, 14 Nov 2017 17:43:48 +0530</pubDate>
+      
+      <guid>/android/screens/sales-order/</guid>
+      <description>Scroll down on the dashboard screen. Click on the Sales Order on the dashboard.
+List of Sales Orders grouped by companies are displayed. Click on the company to see sales order vouchers for the company.
+Click on the required sales order voucher
+Now you will see the voucher details.
+1. How to filter by Sales Order type? Click on the filter marked in the picture. The dropdown will show all the Sales Order Types that you have set.</description>
+    </item>
+    
+    <item>
+      <title>Sales</title>
+      <link>/android/screens/sales/</link>
+      <pubDate>Tue, 14 Nov 2017 17:40:55 +0530</pubDate>
+      
+      <guid>/android/screens/sales/</guid>
+      <description>Click on the SALES data on the dashboard
+Now, you can see the total sales, net and gross amount. Its show partywise Sales total.
+1. How to filter the sales User can see the sales with different filter. There are following filter options.
+ Ledger Ledger Group Voucher Type Stock Item Stock Group Stock Category Cost Center Cost Category Month  On clicking Stock Item, the data is shown by stock item.</description>
+    </item>
+    
+    <item>
+      <title>Day Book</title>
+      <link>/android/reports/day-book/</link>
+      <pubDate>Tue, 14 Nov 2017 17:50:03 +0530</pubDate>
+      
+      <guid>/android/reports/day-book/</guid>
+      <description>At the bottom of the dashboard screen, click on the Reports icon.
+You will see a list of reports. Click on the Day Book report.
+All transactions of the current day are shown. If no transactions are entered in Tally then no data is shown
+1. Change Daybook period Click on the daybook period icon.
+Then select the appropriate period for which you want to see the daybook.
+2. Select Voucher types in Daybook Click on the voucher type icon.</description>
+    </item>
+    
+    <item>
+      <title>Expenses</title>
+      <link>/android/reports/expenses/</link>
+      <pubDate>Tue, 14 Nov 2017 17:47:09 +0530</pubDate>
+      
+      <guid>/android/reports/expenses/</guid>
+      <description>At the bottom of the dashboard screen, click on the Reports icon.
+You will see a list of reports. Click on the Expenses report
+Now the expenses report will open with two categories: Direct &amp;amp; Indirect Expenses. You can drilldown the information by clicking on the required type of expense.
+Select the expense whose in depth information you need to see.
+You will see a list of vouchers. You can get further insights by clicking the individual vouchers.</description>
+    </item>
+    
+    <item>
+      <title>Inactive Customers</title>
+      <link>/android/reports/inactive-customers/</link>
+      <pubDate>Tue, 14 Nov 2017 17:48:59 +0530</pubDate>
+      
+      <guid>/android/reports/inactive-customers/</guid>
+      <description>At the bottom of the dashboard screen, click on the Reports icon.
+You will see a list of reports. Click on the Inactive Customers report.
+By default, list of customers is shown sorted in descending order according to the last time any item was sold to the customer. You can click on the customer&amp;rsquo;s name.
+The summary of transactions with the customer is shown on clicking the name.
+1. Change the date filter Click on the filter icon.</description>
+    </item>
+    
+    <item>
+      <title>Inactive Items</title>
+      <link>/android/reports/inactive-items/</link>
+      <pubDate>Tue, 14 Nov 2017 17:49:18 +0530</pubDate>
+      
+      <guid>/android/reports/inactive-items/</guid>
+      <description>At the bottom of the dashboard screen, click on the Reports icon.
+You will see a list of reports. Click on the Inactive Items report.
+By default, list of items is shown sorted in descending order according to the last time any item was sold. You can click on the item to get more details.
+You can see the summary of the item for the selected period
+1. Filter by stock Click on the stock icon</description>
+    </item>
+    
+    <item>
+      <title>Ledger Report</title>
+      <link>/android/reports/ledger-report/</link>
+      <pubDate>Tue, 14 Nov 2017 17:49:37 +0530</pubDate>
+      
+      <guid>/android/reports/ledger-report/</guid>
+      <description>At the bottom of the dashboard screen, click on the Reports icon.
+You will see a list of reports. Click on the Ledger Report report.
+You will see a list of ledgers. Select the required company.
+Now a list of vouchers is displayed. Select the required voucher.
+Then you can see the voucher details</description>
+    </item>
+    
+    <item>
+      <title>Pending Purchase Order</title>
+      <link>/android/reports/pending-purchase-order/</link>
+      <pubDate>Tue, 14 Nov 2017 17:50:44 +0530</pubDate>
+      
+      <guid>/android/reports/pending-purchase-order/</guid>
+      <description>At the bottom of the dashboard screen, click on the Reports icon.
+You will see a list of reports. Click on the Pending Purchase Order report.
+The Pending Purchase Order screen is similar to the Pending Sales Order screen. Click here (add link) to see the details.</description>
+    </item>
+    
+    <item>
+      <title>Pending Sales Order</title>
+      <link>/android/reports/pending-sales-order/</link>
+      <pubDate>Tue, 14 Nov 2017 17:50:26 +0530</pubDate>
+      
+      <guid>/android/reports/pending-sales-order/</guid>
+      <description>At the bottom of the dashboard screen, click on the Reports icon.
+You will see a list of reports. Click on the Pending Sales Order report.
+List of companies with pending sales is shown
+1. Find a sales order Click on the required company
+You will find a list of orders. Click on the required sales order.
+Now, you can see the details of the sales order
+2. Find sales order by Ledger Group Click on the ledger group dropdown.</description>
+    </item>
+    
+    <item>
+      <title>Profit &amp; Loss</title>
+      <link>/android/reports/profit-and-loss/</link>
+      <pubDate>Tue, 14 Nov 2017 17:48:28 +0530</pubDate>
+      
+      <guid>/android/reports/profit-and-loss/</guid>
+      <description>At the bottom of the dashboard screen, click on the Reports icon.
+You will see a list of reports. Click on the Profit &amp;amp; Loss report.
+The profit and loss for the selected period is shown
+You can click on any of the components to see them in detail
+You can see the breakup of the component below</description>
+    </item>
+    
+    <item>
+      <title>Top Report</title>
+      <link>/android/reports/top-report/</link>
+      <pubDate>Tue, 14 Nov 2017 17:47:22 +0530</pubDate>
+      
+      <guid>/android/reports/top-report/</guid>
+      <description>At the bottom of the dashboard screen, click on the Reports icon.
+You will see a list of reports. Click on the Top Report report.
+By default top 5 Customers are shown. On clicking on a supplier/customer, you will see the purchases/sales respectively. On clicking on an item you will be shown the summary for the item.
+1. How to change the number of top customers/suppliers/items? Click on the filter icon on the top.</description>
+    </item>
+    
+    <item>
+      <title>Setup</title>
+      <link>/ios/setup/</link>
+      <pubDate>Tue, 14 Nov 2017 14:34:02 +0530</pubDate>
+      
+      <guid>/ios/setup/</guid>
+      <description>Download Download the Biz Analyst iOS application from here
+Steps: 1. Sign up Fill in the Sign up form on the Biz Analyst iOS application and click on sign up button. If you have already signed up before from the Biz Analyst Desktop or Mobile application goto Sign in 2. Sign in Use the email and password you choose while signing up to sign in. 3. Select Company Select the company from company list to see company data.</description>
+    </item>
+    
+    <item>
+      <title>Currency</title>
+      <link>/ios/settings/currency/</link>
+      <pubDate>Tue, 14 Nov 2017 14:41:13 +0530</pubDate>
+      
+      <guid>/ios/settings/currency/</guid>
+      <description> Currency: 1. Default Currency Sets the default currency for the app. 2. Currency Format Customize the number format in currency. </description>
+    </item>
+    
+    <item>
+      <title>Invoice</title>
+      <link>/ios/settings/invoice/</link>
+      <pubDate>Tue, 14 Nov 2017 14:46:07 +0530</pubDate>
+      
+      <guid>/ios/settings/invoice/</guid>
+      <description>Invoice: Configure fields you would like to show in your invoice. 1. Include Batches On selection, it shows Batch no &amp;amp; Godown for each Item.
+2. Include Narration On selection, it shows the voucher narration in the invoice.
+3. Declaration Configure the declaration shown in your invoice. 4. Invoice Share GST% On selection, it adds the GST% column while sharing your invoice.
+5. Select Bank Account On Selection, it shows the bank account details in the invoice.</description>
+    </item>
+    
+    <item>
+      <title>Outstanding</title>
+      <link>/ios/settings/outstanding/</link>
+      <pubDate>Tue, 14 Nov 2017 14:46:56 +0530</pubDate>
+      
+      <guid>/ios/settings/outstanding/</guid>
+      <description> Outstanding: Configure fields you would like to show in your outstanding.
+1. View Outstanding by Calculates your overdue days by bill date or due date. 2. Ageing Config Choose your custom ageing period to be viewed in receivables &amp;amp; payables. 3. Columns to Share Enables you to decide which fields you would like to send while sharing outstanding. </description>
+    </item>
+    
+    <item>
+      <title>Ledger Report</title>
+      <link>/ios/settings/ledger-report/</link>
+      <pubDate>Tue, 14 Nov 2017 14:47:36 +0530</pubDate>
+      
+      <guid>/ios/settings/ledger-report/</guid>
+      <description> Ledger Report: Configuration while sharing Ledger report.
+1. Include Narration On selection, it shows the narration for each voucher. </description>
+    </item>
+    
+    <item>
+      <title>Share</title>
+      <link>/ios/settings/share/</link>
+      <pubDate>Tue, 14 Nov 2017 14:48:17 +0530</pubDate>
+      
+      <guid>/ios/settings/share/</guid>
+      <description>Share: Additional settings while sharing, emailing your customers. 1. Signature Customize the signature while sending out emails, messages etc. 2. PDF Preview On selection, it allows you to preview PDF before sending it.
+3. PDF Footer On selection, it removes the Biz Analyst Footer while sharing reports.</description>
+    </item>
+    
+    <item>
+      <title>Default Screen</title>
+      <link>/ios/settings/default-screen/</link>
+      <pubDate>Tue, 14 Nov 2017 14:49:43 +0530</pubDate>
+      
+      <guid>/ios/settings/default-screen/</guid>
+      <description> Default Screen: Choose the default screen to open while opening this app. </description>
+    </item>
+    
+    <item>
+      <title>Date</title>
+      <link>/ios/settings/date/</link>
+      <pubDate>Tue, 14 Nov 2017 14:50:31 +0530</pubDate>
+      
+      <guid>/ios/settings/date/</guid>
+      <description> Date: Additional settings while sharing, emailing your customers.
+1. Default Date Select the default date period to be shown on the dashboard. 2. Financial Year Select the default financial year of your company. </description>
+    </item>
+    
+    <item>
+      <title>Dashboard</title>
+      <link>/ios/screens/dashboard/</link>
+      <pubDate>Tue, 14 Nov 2017 15:21:45 +0530</pubDate>
+      
+      <guid>/ios/screens/dashboard/</guid>
+      <description> Dashboard: Show the total of all sections for selected time period. Last Sync Date shows time of last data fetched from server. On clicking of that bar you can fetch lastest data from server. There following sections on Dashboard.
+ Sales Purchase Receipt Payment Receivable Payable Cash / Bank Balance Sales Order Purchase Order Delivery Note Receipt Note  </description>
+    </item>
+    
+    <item>
+      <title>Sales</title>
+      <link>/ios/screens/sales/</link>
+      <pubDate>Tue, 14 Nov 2017 15:22:43 +0530</pubDate>
+      
+      <guid>/ios/screens/sales/</guid>
+      <description> Sales: Show the total sales net and gross amount. Its show partywise Sales total. User can see the sales with different filter. There are following filter options.
+ Ledger Ledger Group Voucher Type Stock Item Stock Group Stock Category Cost Center Cost Category Month   User can see bills list for selected filter. User can also see particular bill detail. </description>
+    </item>
+    
+    <item>
+      <title>Purchase</title>
+      <link>/ios/screens/purchase/</link>
+      <pubDate>Tue, 14 Nov 2017 15:23:31 +0530</pubDate>
+      
+      <guid>/ios/screens/purchase/</guid>
+      <description> Purchase: Show the total purchase net and gross amount. Its show partywise Purchase total. User can see the purchase with different filter. There are following filter options.
+ Ledger Ledger Group Voucher Type Stock Item Stock Group Stock Category Cost Center Cost Category Month   User can see bills list for selected filter. User can also see perticular bill detail. </description>
+    </item>
+    
+    <item>
+      <title>Receipt</title>
+      <link>/ios/screens/receipt/</link>
+      <pubDate>Tue, 14 Nov 2017 15:24:31 +0530</pubDate>
+      
+      <guid>/ios/screens/receipt/</guid>
+      <description> Receipt: Show the total Receipt amount. Its show partywise Receipt total. User can see bills list for selected party. User can also see perticular bill detail. </description>
+    </item>
+    
+    <item>
+      <title>Payment</title>
+      <link>/ios/screens/payment/</link>
+      <pubDate>Tue, 14 Nov 2017 15:25:22 +0530</pubDate>
+      
+      <guid>/ios/screens/payment/</guid>
+      <description> Payment: Show the total Payment amount. Its show partywise Payment total. User can see bills list for selected party. User can also see perticular bill detail. </description>
+    </item>
+    
+    <item>
+      <title>Receivable</title>
+      <link>/ios/screens/receivable/</link>
+      <pubDate>Tue, 14 Nov 2017 15:27:18 +0530</pubDate>
+      
+      <guid>/ios/screens/receivable/</guid>
+      <description> Receivable: User can see partywise pending receivable outstanding and total amount. User also apply daywise filter. User can also see pending bills of perticular party. </description>
+    </item>
+    
+    <item>
+      <title>Payable</title>
+      <link>/ios/screens/payable/</link>
+      <pubDate>Tue, 14 Nov 2017 15:27:47 +0530</pubDate>
+      
+      <guid>/ios/screens/payable/</guid>
+      <description> Payable: User can see partywise pending payable outstanding and total amount. User also apply daywise filter. User can also see pending bills of perticular party. </description>
+    </item>
+    
+    <item>
+      <title>Cash / Bank Balance</title>
+      <link>/ios/screens/cash-bank-balance/</link>
+      <pubDate>Tue, 14 Nov 2017 15:29:02 +0530</pubDate>
+      
+      <guid>/ios/screens/cash-bank-balance/</guid>
+      <description> Cash / Bank Balance: User can see the balance in the accounts. There are three type of account as follows.
+ Cash-In-Hand Bank Accounts Bank OD A/c   User can see list subaccount and balance in above selected account. User can also all transaction(ledger report) made in perticular subaccount. </description>
+    </item>
+    
+    <item>
+      <title>Sales Order</title>
+      <link>/ios/screens/sales-order/</link>
+      <pubDate>Tue, 14 Nov 2017 15:29:57 +0530</pubDate>
+      
+      <guid>/ios/screens/sales-order/</guid>
+      <description> Sales Order: Show partywise Sales Order and its total. User can see orders list for selected party. User can also see perticular order detail. </description>
+    </item>
+    
+    <item>
+      <title>Purchase Order</title>
+      <link>/ios/screens/purchase-order/</link>
+      <pubDate>Tue, 14 Nov 2017 15:30:29 +0530</pubDate>
+      
+      <guid>/ios/screens/purchase-order/</guid>
+      <description> Purchase Order: Show partywise Purchase Order and its total. User can see orders list for selected party. User can also see perticular order detail. </description>
+    </item>
+    
+    <item>
+      <title>Delivery Note</title>
+      <link>/ios/screens/delivery-note/</link>
+      <pubDate>Tue, 14 Nov 2017 15:31:11 +0530</pubDate>
+      
+      <guid>/ios/screens/delivery-note/</guid>
+      <description> Delivery Note: Show partywise Delivery note and its total. User can see vouchers list for selected party. User can also see perticular voucher detail. </description>
+    </item>
+    
+    <item>
+      <title>Receipt Note</title>
+      <link>/ios/screens/receipt-note/</link>
+      <pubDate>Tue, 14 Nov 2017 15:33:15 +0530</pubDate>
+      
+      <guid>/ios/screens/receipt-note/</guid>
+      <description> Receipt Note: Show partywise Receipt note and its total. User can see vouchers list for selected party. User can also see perticular voucher detail. </description>
+    </item>
+    
+    <item>
+      <title>Party</title>
+      <link>/ios/screens/party/</link>
+      <pubDate>Tue, 14 Nov 2017 16:10:29 +0530</pubDate>
+      
+      <guid>/ios/screens/party/</guid>
+      <description> Party: This section shows list of all party. On selecting party its shows summary of that party like sales, purchase, payment, receipt, receivable, payable. On selecting sold section it shows list of items sold to that party. On selecting purchased section it shows list of items purchased from that party. You can get the basic information of party. </description>
+    </item>
+    
+    <item>
+      <title>Items</title>
+      <link>/ios/screens/items/</link>
+      <pubDate>Tue, 14 Nov 2017 16:10:57 +0530</pubDate>
+      
+      <guid>/ios/screens/items/</guid>
+      <description>Items: This shows list of items. User can also see Stock groups and Stock category. User can filter items with different option.
+ All Items In Stock Not In Stock Below Reorder Level.   On selecting party its shows summary of that party like sales, purchase, price list. On selecting customers section it shows list of customers to that item sold. On selecting suppliers section it shows list of suppliers to that item purchased.</description>
+    </item>
+    
+    <item>
+      <title>Expenses</title>
+      <link>/ios/reports/expenses/</link>
+      <pubDate>Tue, 14 Nov 2017 16:16:26 +0530</pubDate>
+      
+      <guid>/ios/reports/expenses/</guid>
+      <description>Expenses: Expense Report shows all direct and indirect expenses. You can also filter direct and indirect expense.</description>
+    </item>
+    
+    <item>
+      <title>Top Report</title>
+      <link>/ios/reports/top-report/</link>
+      <pubDate>Tue, 14 Nov 2017 16:17:03 +0530</pubDate>
+      
+      <guid>/ios/reports/top-report/</guid>
+      <description> Top Report: Top Report shows top report of selected category. There are four category.
+ Customers Suppliers Item Sold Item Purchased  By default it show top 5 report of selected category. You can also change that number. </description>
+    </item>
+    
+    <item>
+      <title>Profit &amp; Loss</title>
+      <link>/ios/reports/profit-and-loss/</link>
+      <pubDate>Tue, 14 Nov 2017 16:18:06 +0530</pubDate>
+      
+      <guid>/ios/reports/profit-and-loss/</guid>
+      <description>Profit &amp;amp; Loss: It shows the profit and loss report for selected period. By default seleted period is current month.
+Note: Gross Profit and Net Profit values are without opening and closing stock.</description>
+    </item>
+    
+    <item>
+      <title>Inactive Customers</title>
+      <link>/ios/reports/inactive-customers/</link>
+      <pubDate>Tue, 14 Nov 2017 16:18:53 +0530</pubDate>
+      
+      <guid>/ios/reports/inactive-customers/</guid>
+      <description>Inactive Customers: It show the list of customers that inactive since selected time period. By default that time period is 30 days. You can also filter customer by ledger group.</description>
+    </item>
+    
+    <item>
+      <title>Inactive Items</title>
+      <link>/ios/reports/inactive-items/</link>
+      <pubDate>Tue, 14 Nov 2017 16:19:33 +0530</pubDate>
+      
+      <guid>/ios/reports/inactive-items/</guid>
+      <description>Inactive Items: It show the list of items that inactive since selected time period. By default that time period is 30 days.</description>
+    </item>
+    
+    <item>
+      <title>Ledger Report</title>
+      <link>/ios/reports/ledger-report/</link>
+      <pubDate>Tue, 14 Nov 2017 16:20:35 +0530</pubDate>
+      
+      <guid>/ios/reports/ledger-report/</guid>
+      <description> Ledger Report: Its shows all list of ledgers. You can also filter ledgers by ledger groups. You can also see the detail of selected ledger. </description>
+    </item>
+    
+    <item>
+      <title>Day Book</title>
+      <link>/ios/reports/day-book/</link>
+      <pubDate>Tue, 14 Nov 2017 16:21:27 +0530</pubDate>
+      
+      <guid>/ios/reports/day-book/</guid>
+      <description>Day Book: Day book shows the list of entries made on selected date. By default selected date is today&amp;rsquo;s date. You can also filter daybook by voucher type. You can also see the details of perticular entry.</description>
+    </item>
+    
+    <item>
+      <title>Pending Sales Order</title>
+      <link>/ios/reports/pending-sales-order/</link>
+      <pubDate>Tue, 14 Nov 2017 16:22:05 +0530</pubDate>
+      
+      <guid>/ios/reports/pending-sales-order/</guid>
+      <description>Pending Sales Order: It shows the list of party&amp;rsquo;s who&amp;rsquo;s oreder is pending. On selecting party you can see the order detail.</description>
+    </item>
+    
+    <item>
+      <title>Pending Purchase Order</title>
+      <link>/ios/reports/pending-purchase-order/</link>
+      <pubDate>Tue, 14 Nov 2017 16:22:43 +0530</pubDate>
+      
+      <guid>/ios/reports/pending-purchase-order/</guid>
+      <description>Pending Purchase Order: It shows the list of party&amp;rsquo;s who&amp;rsquo;s oreder is pending. On selecting party you can see the order detail.</description>
+    </item>
+    
+    <item>
+      <title>Add User</title>
+      <link>/ios/faqs/add-user/</link>
+      <pubDate>Tue, 14 Nov 2017 17:37:23 +0530</pubDate>
+      
+      <guid>/ios/faqs/add-user/</guid>
+      <description>Add User: On users screen click on + symbol to add new user. Provide User name and email to add it to current company. After adding user, you can give permission to user. See Manage Permission section.</description>
+    </item>
+    
+    <item>
+      <title>Manage Permissions</title>
+      <link>/ios/faqs/manage-permissions/</link>
+      <pubDate>Tue, 14 Nov 2017 17:38:25 +0530</pubDate>
+      
+      <guid>/ios/faqs/manage-permissions/</guid>
+      <description>Manage Permissions: In this section you can provide different level access. Admin has full access. If user is not admin it can not add/update/remove user permission. You also can restrict user to perticular ledger group/stock group/voucher type. You also can restrict user to access Expenses. You also can restrict user to share reports.</description>
+    </item>
+    
+    <item>
+      <title>Remove User</title>
+      <link>/ios/faqs/remove-user/</link>
+      <pubDate>Tue, 14 Nov 2017 17:39:17 +0530</pubDate>
+      
+      <guid>/ios/faqs/remove-user/</guid>
+      <description>Remove User: You can also remove particular user from your company. Click on x symbol on header to remove user.</description>
+    </item>
+    
+    <item>
+      <title>Change Company</title>
+      <link>/ios/faqs/change-company/</link>
+      <pubDate>Tue, 14 Nov 2017 17:43:04 +0530</pubDate>
+      
+      <guid>/ios/faqs/change-company/</guid>
+      <description>Change Company: To change the company, go to Companies and select company to see its data.</description>
+    </item>
+    
+    <item>
+      <title>Add Passcode</title>
+      <link>/ios/faqs/add-passcode/</link>
+      <pubDate>Tue, 14 Nov 2017 17:40:33 +0530</pubDate>
+      
+      <guid>/ios/faqs/add-passcode/</guid>
+      <description>Add Passcode: You can also set passcode to app. It will ask everytime when you open the app. Go to Passcode and set passcode.</description>
+    </item>
+    
+    <item>
+      <title>Remove Passcode</title>
+      <link>/ios/faqs/remove-passcode/</link>
+      <pubDate>Tue, 14 Nov 2017 17:40:57 +0530</pubDate>
+      
+      <guid>/ios/faqs/remove-passcode/</guid>
+      <description>Remove Passcode: To remove passcode, Go to Passcode select Remove Passcode. Provide your current passcode.</description>
+    </item>
+    
+    <item>
+      <title>Change Passcode</title>
+      <link>/ios/faqs/change-passcode/</link>
+      <pubDate>Tue, 14 Nov 2017 17:42:03 +0530</pubDate>
+      
+      <guid>/ios/faqs/change-passcode/</guid>
+      <description>Change Passcode: To change passcode, Go to Passcode select Change Passcode. Provide your current passcode and set new passcode.</description>
+    </item>
+    
+    <item>
+      <title>Reset Password</title>
+      <link>/ios/faqs/reset-password/</link>
+      <pubDate>Tue, 14 Nov 2017 17:44:25 +0530</pubDate>
+      
+      <guid>/ios/faqs/reset-password/</guid>
+      <description>Reset Password: To reset password provide your email id from which you have logged in to app. It will send reset link to your email.</description>
+    </item>
+    
+  </channel>
+</rss>

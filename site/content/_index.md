@@ -1,20 +1,33 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
-blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+title: "Biz Analyst Docs"
+date: 2017-11-10T13:56:43+05:30
+draft: false
 ---
 
+## Overview
+
+Biz Analyst is a *&quot;Tally on mobile&quot;* application which sync's your **Tally ERP 9** data and shows it on your mobile. You can view *Sales*, *Purchase*, *Receivable*, *Payable*, *Cash / Bank balances*, *Delivery Note*, *Receipt Note*, *Sales Order*, *Purchase Order*, *Party*, *Items*, *Inactive Customers*, *Inactive Items*, *Ledger Report*, *Day Book* and many more things on your mobile. 
+
+Our platform consists of two applications:
+1. Desktop app
+2. Mobile app (Android / IOS)
+
+### 1. Desktop app
+
+It is the medium which sync's your **Tally ERP 9** data with **Biz Analyst Android/IOS** app. It resides on your computer where *Tally ERP 9* is installed.
+
+You can manage (*add, edit, delete*) your *Tally ERP 9* companies whose data you want to see on your mobile through this app.
+
+The *Biz Analyst Desktop* app fetches data from your *Tally ERP 9* (for the companies which you have added in *Biz Analyst* to sync) then **encrypt's** that data and saves it on our server (hosted on Amazon Web Services).
+
+It periodically checks for any changes in *Tally ERP 9* data and only saves the new data on the server instead of fetching everything again.
+
+The Sync runs automatically and no user intervention is required.
+
+### 2. Android / IOS app
+
+This is the app you install on your phone to see your synced *Tally ERP 9* data. You get a list of companies from the ones you've added on *Biz Analyst* through the *Desktop application*.
+
+Selecting a company from the list downloads its corresponding data from our server to your mobile device and later on **decrypt's** it for you to see.
+
+You can set a *Passcode* (feature built-in) for the app so no other person can access your data without your permission.

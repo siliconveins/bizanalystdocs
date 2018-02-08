@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/desktop/</loc>
+    <lastmod>2017-11-13T14:07:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/desktop/setup/</loc>
+    <lastmod>2017-11-13T12:47:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/desktop/faqs/</loc>
+    <lastmod>2017-11-13T14:24:28+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/desktop/faqs/delete-data/</loc>
+    <lastmod>2017-11-13T13:18:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/desktop/faqs/delete-company/</loc>
+    <lastmod>2017-11-13T13:19:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/desktop/faqs/merge-company/</loc>
+    <lastmod>2017-11-13T13:22:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/desktop/faqs/reset-password/</loc>
+    <lastmod>2017-11-13T13:23:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/desktop/settings/</loc>
+    <lastmod>2017-11-13T17:25:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/desktop/settings/sync-configuration/</loc>
+    <lastmod>2017-11-13T13:16:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/desktop/miscellaneous/</loc>
+    <lastmod>2017-11-13T14:25:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/desktop/miscellaneous/tally-odbc-port/</loc>
+    <lastmod>2017-11-13T13:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/</loc>
+    <lastmod>2017-11-13T14:22:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/setup/</loc>
+    <lastmod>2017-11-14T17:33:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/settings/</loc>
+    <lastmod>2017-11-14T17:35:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/settings/currency/</loc>
+    <lastmod>2017-11-14T17:36:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/settings/invoice/</loc>
+    <lastmod>2017-11-14T17:36:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/settings/outstanding/</loc>
+    <lastmod>2017-11-14T17:36:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/settings/ledger-report/</loc>
+    <lastmod>2017-11-14T17:37:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/settings/share/</loc>
+    <lastmod>2017-11-14T17:37:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/settings/default-screen/</loc>
+    <lastmod>2017-11-14T17:37:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/settings/date/</loc>
+    <lastmod>2017-11-14T17:37:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/</loc>
+    <lastmod>2017-11-14T17:51:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/add-passcode/</loc>
+    <lastmod>2017-11-15T09:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/add-user/</loc>
+    <lastmod>2017-11-15T09:17:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/change-passcode/</loc>
+    <lastmod>2017-11-15T09:19:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/forgot-password/</loc>
+    <lastmod>2017-11-15T09:19:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/manage-permissions/</loc>
+    <lastmod>2017-11-15T09:17:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/remove-demo-company/</loc>
+    <lastmod>2017-11-21T17:54:14+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/remove-passcode/</loc>
+    <lastmod>2017-11-15T09:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/remove-user/</loc>
+    <lastmod>2017-11-15T09:18:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/reset-password/</loc>
+    <lastmod>2017-11-15T09:20:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/verify-email/</loc>
+    <lastmod>2017-11-23T19:19:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/purchase-subscription/</loc>
+    <lastmod>2017-11-30T16:23:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/faqs/pending-invoice/</loc>
+    <lastmod>2017-11-30T16:21:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/</loc>
+    <lastmod>2017-11-14T17:39:44+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/cash-bank-balance/</loc>
+    <lastmod>2017-11-14T17:43:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/dashboard/</loc>
+    <lastmod>2017-11-14T17:40:28+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/items/</loc>
+    <lastmod>2017-11-14T17:45:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/party/</loc>
+    <lastmod>2017-11-14T17:45:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/payable/</loc>
+    <lastmod>2017-11-14T17:42:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/payment/</loc>
+    <lastmod>2017-11-14T17:41:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/purchase-order/</loc>
+    <lastmod>2017-11-14T17:44:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/purchase/</loc>
+    <lastmod>2017-11-14T17:41:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/receivable/</loc>
+    <lastmod>2017-11-14T17:42:14+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/receipt/</loc>
+    <lastmod>2017-11-14T17:41:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/sales-order/</loc>
+    <lastmod>2017-11-14T17:43:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/screens/sales/</loc>
+    <lastmod>2017-11-14T17:40:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/reports/</loc>
+    <lastmod>2017-11-14T17:46:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/reports/day-book/</loc>
+    <lastmod>2017-11-14T17:50:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/reports/expenses/</loc>
+    <lastmod>2017-11-14T17:47:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/reports/inactive-customers/</loc>
+    <lastmod>2017-11-14T17:48:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/reports/inactive-items/</loc>
+    <lastmod>2017-11-14T17:49:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/reports/ledger-report/</loc>
+    <lastmod>2017-11-14T17:49:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/reports/pending-purchase-order/</loc>
+    <lastmod>2017-11-14T17:50:44+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/reports/pending-sales-order/</loc>
+    <lastmod>2017-11-14T17:50:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/reports/profit-and-loss/</loc>
+    <lastmod>2017-11-14T17:48:28+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/android/reports/top-report/</loc>
+    <lastmod>2017-11-14T17:47:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/</loc>
+    <lastmod>2017-11-13T14:22:44+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/setup/</loc>
+    <lastmod>2017-11-14T14:34:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/settings/</loc>
+    <lastmod>2017-11-14T14:36:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/settings/currency/</loc>
+    <lastmod>2017-11-14T14:41:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/settings/invoice/</loc>
+    <lastmod>2017-11-14T14:46:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/settings/outstanding/</loc>
+    <lastmod>2017-11-14T14:46:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/settings/ledger-report/</loc>
+    <lastmod>2017-11-14T14:47:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/settings/share/</loc>
+    <lastmod>2017-11-14T14:48:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/settings/default-screen/</loc>
+    <lastmod>2017-11-14T14:49:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/settings/date/</loc>
+    <lastmod>2017-11-14T14:50:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/</loc>
+    <lastmod>2017-11-14T15:18:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/dashboard/</loc>
+    <lastmod>2017-11-14T15:21:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/sales/</loc>
+    <lastmod>2017-11-14T15:22:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/purchase/</loc>
+    <lastmod>2017-11-14T15:23:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/receipt/</loc>
+    <lastmod>2017-11-14T15:24:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/payment/</loc>
+    <lastmod>2017-11-14T15:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/receivable/</loc>
+    <lastmod>2017-11-14T15:27:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/payable/</loc>
+    <lastmod>2017-11-14T15:27:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/cash-bank-balance/</loc>
+    <lastmod>2017-11-14T15:29:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/sales-order/</loc>
+    <lastmod>2017-11-14T15:29:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/purchase-order/</loc>
+    <lastmod>2017-11-14T15:30:29+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/delivery-note/</loc>
+    <lastmod>2017-11-14T15:31:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/receipt-note/</loc>
+    <lastmod>2017-11-14T15:33:15+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/party/</loc>
+    <lastmod>2017-11-14T16:10:29+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/screens/items/</loc>
+    <lastmod>2017-11-14T16:10:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/reports/</loc>
+    <lastmod>2017-11-14T16:12:50+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/reports/expenses/</loc>
+    <lastmod>2017-11-14T16:16:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/reports/top-report/</loc>
+    <lastmod>2017-11-14T16:17:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/reports/profit-and-loss/</loc>
+    <lastmod>2017-11-14T16:18:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/reports/inactive-customers/</loc>
+    <lastmod>2017-11-14T16:18:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/reports/inactive-items/</loc>
+    <lastmod>2017-11-14T16:19:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/reports/ledger-report/</loc>
+    <lastmod>2017-11-14T16:20:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/reports/day-book/</loc>
+    <lastmod>2017-11-14T16:21:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/reports/pending-sales-order/</loc>
+    <lastmod>2017-11-14T16:22:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/reports/pending-purchase-order/</loc>
+    <lastmod>2017-11-14T16:22:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/faqs/</loc>
+    <lastmod>2017-11-14T16:23:50+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/faqs/add-user/</loc>
+    <lastmod>2017-11-14T17:37:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/faqs/manage-permissions/</loc>
+    <lastmod>2017-11-14T17:38:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/faqs/remove-user/</loc>
+    <lastmod>2017-11-14T17:39:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/faqs/change-company/</loc>
+    <lastmod>2017-11-14T17:43:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/faqs/add-passcode/</loc>
+    <lastmod>2017-11-14T17:40:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/faqs/remove-passcode/</loc>
+    <lastmod>2017-11-14T17:40:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/faqs/change-passcode/</loc>
+    <lastmod>2017-11-14T17:42:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ios/faqs/reset-password/</loc>
+    <lastmod>2017-11-14T17:44:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-11-10T13:56:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

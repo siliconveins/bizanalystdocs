@@ -1,0 +1,729 @@
+[
+{
+	"uri": "/desktop/",
+	"title": "Desktop",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/desktop/setup/",
+	"title": "Setup",
+	"tags": [],
+	"description": "",
+	"content": " System Requirements  Windows 7 or above Windows Server 2008 R2 or above Minimum 4gb RAM, recommended 8gb RAM Minimum 300mb free disk space  Download Download the Biz Analyst Desktop application from here\nInstallation Double click the setup file downloaded from the link above and the rest is handled on its own. The application should start by itself after installation is completed and a shortcut is created on your computer desktop.\n  \nSteps: 1. Sign up Fill in the Sign up form on the Biz Analyst Desktop application and click on sign up button. If you have already signed up before from the Biz Analyst Desktop or Mobile application goto Sign in 2. Sign in Use the email and password you choose while signing up to sign in 3. Partner code If you downloaded the Biz Analyst Desktop application by yourself from the website then click \u0026quot;Skip\u0026quot; button. 4. Tally configuration Open \u0026quot;Tally ERP 9\u0026quot; and open the company which needs to be synced. Find out tally ODBC port number from tally and set the tally configuration as below: 5.1. Add company to Biz Analyst On this screen you should see the companies open in \u0026quot;Tally ERP 9\u0026quot; on the left side of the screen and companies added to Biz Analyst on the right side. Now click on Add button. 5.2. Save company in Biz Analyst Write a description for the company being added (optional) and click Save button to Add the company to Biz Analyst.\nNote: Make sure you have an active internet connection. 6. Company added in Biz Analyst You should now see the below screen, click Done button which should take you to the Home Screen.\nThis was the last step to setup company to Sync with Biz Analyst Mobile application. Sync should now start automatically within a few minutes which looks like:\nIt should take a few minutes to complete the sync process; depending on the period from which you have data in your company. You should see the screen below after sync completion:\n"
+},
+{
+	"uri": "/desktop/faqs/",
+	"title": "Faqs",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/desktop/faqs/delete-data/",
+	"title": "Delete Data",
+	"tags": [],
+	"description": "",
+	"content": " Overview This deletes your company\u0026rsquo;s data synced with Biz Analyst from our server and your phone. However it does not affect your data on Tally ERP 9.\n\u0026quot;Delete Data\u0026quot; option should be used when you want to sync a company\u0026rsquo;s data from beginning.\n  Steps  Click on Edit Companies on the top blue bar. You should now see a screen as below:\n Click on Edit button next to the company whose data is to be deleted.\n Now click additional settings and you should see Delete Data button.  Click Delete Data button, it will ask for delete confirmation. You can either cancel deleting data at this point or confirm and go ahead with deleting.\nNote: This can take a while depending on the amount of data synced before   "
+},
+{
+	"uri": "/desktop/faqs/delete-company/",
+	"title": "Delete Company",
+	"tags": [],
+	"description": "",
+	"content": " Overview This deletes your company\u0026rsquo;s data and company from Biz Analyst. No data for this company will be synced after deleting the company. The company in Tally ERP 9 will not be affected.\n\u0026quot;Delete Company\u0026quot; option should be used when you no longer want to sync a company\u0026rsquo;s data with Biz Analyst.\n  Steps  Click on Edit Companies on the top blue bar. You should now see a screen as below:\n Click on Edit button next to the company whose data is to be deleted.\n Now click additional settings and you should see Delete Company button.  Click Delete Company button, it will ask for delete confirmation. You can either cancel deleting company at this point or confirm and go ahead with deleting.\nNote: You will no longer be able to see this company on either Biz Analyst Desktop or Android/IOS application   "
+},
+{
+	"uri": "/desktop/faqs/merge-company/",
+	"title": "Merge Company",
+	"tags": [],
+	"description": "",
+	"content": " Overview If your campany\u0026rsquo;s name has been changed in Tally ERP 9, you will need to manually map the new name with the company added on Biz Analyst for the data to sync seamlessly.\nSteps  Click on Edit Companies on the top blue bar. You should now see a screen as below:\n Click on Edit button next to the company which needs to be merged, then click Additional Settings.\n Select the company from the available options below Additional Settings and click Merge. You will see a confirmation dialog, click on Merge to merge the company or Cancel.\n*Note: You need to keep the company open in Tally ERP 9 for it to show up in options.*   "
+},
+{
+	"uri": "/desktop/faqs/reset-password/",
+	"title": "Reset Password",
+	"tags": [],
+	"description": "",
+	"content": " Reset Password If you forgot your Biz Analyst account password, then click on the Forgot Password? link from the sign in / sign up screen on the desktop application and then type your registered Email id in the given box, click on send reset link.\nAn email will be sent to the Email id provided above with reset password link. Just follow the instructions in the mail to complete the process.\nIn case you just want to change your password, logout from the application by clicking Logout on top right corner on the blue bar and follow the same steps as mentioned above.\n"
+},
+{
+	"uri": "/desktop/settings/",
+	"title": "Settings",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/desktop/settings/sync-configuration/",
+	"title": "Sync Configuration",
+	"tags": [],
+	"description": "",
+	"content": " Sync Interval   By default Biz Analyst checks for any changes in your \u0026quot;Tally ERP 9\u0026quot; data every 5 minutes. You may change this frequency as per your usage. If data is not changed or added often in your Tally ERP 9 then you may increase the sync frequency. If data is changed or added very frequently then decrease the sync frequency so that you get the latest changes on your phone quickly.\nTo change the Sync Frequency, click Settings on the top blue bar, then click Sync from the left side, change the frequency minutes and click Save button.\nSync Deleted Vouchers Interval By default Biz Analyst checks for deleted vouchers in your \u0026quot;Tally ERP 9\u0026quot; every 24 hours. You may change this frequency as per your usage. If vouchers are not deleted often in your Tally ERP 9 then you may increase the sync frequency.\nTo change the Sync Deleted Vouchers Interval, click Settings on the top blue bar, then click Sync from the left side, change the Sync deleted vouchers interval (in hours) and click Save button.\n"
+},
+{
+	"uri": "/desktop/miscellaneous/",
+	"title": "Miscellaneous",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/desktop/miscellaneous/tally-odbc-port/",
+	"title": "Tally Odbc Port",
+	"tags": [],
+	"description": "",
+	"content": " Find ODBC Port Check for ODBC Port number on the bottom section of Tally ERP 9 screen inside the configuration box. By default, it should be \u0026quot;9000\u0026quot;. Use this number to setup Tally ERP 9 with Biz Analyst Desktop application.\nIf you do not see this port number you can easily setup ODBC port number by following these instructions\nSetup ODBC Port  Click inside the Configuration box located at the bottom right area of the screen. In the Configuration screen, goto ODBC Configuration area and select Tally is acting as (this should be None) and press Enter.\n In the \u0026quot;Client/Server Configuration\u0026quot; screen change \u0026quot;Tally.ERP 9 is acting as\u0026quot; to \u0026quot;Server\u0026quot;.\n Save the configuration and restart \u0026quot;Tally ERP 9\u0026quot; by following on screen instructions.\n You should now see \u0026quot;Server with ODBC\u0026quot; with port number in the configuration section at the bottom right of the screen.  "
+},
+{
+	"uri": "/android/",
+	"title": "Android",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/android/setup/",
+	"title": "Setup",
+	"tags": [],
+	"description": "",
+	"content": " Download Download the Biz Analyst Android application from here\nOn opening the screen, you will be taken to Login Screen. If you have already signed up then click on SIGNIN. If you are using Biz Analyst app for the first time, then you need to signup, hence, click on SIGNUP/ VIEW DEMO.\n1. Sign up Fill in the Sign up form on the Biz Analyst Android application and click on sign up button.\nIf you have already signed up before from the Biz Analyst Desktop or Mobile application goto Sign in 2. Sign in Use the email and password you chose while signing up to sign in. "
+},
+{
+	"uri": "/android/settings/",
+	"title": "Settings",
+	"tags": [],
+	"description": "",
+	"content": "Open the navigation bar and then click on the Settings icon.\nThen list of all settings can be seen\n"
+},
+{
+	"uri": "/android/settings/currency/",
+	"title": "Currency",
+	"tags": [],
+	"description": "",
+	"content": " Open the navigation bar and then click on the Settings icon.\nClick on the Currency icon from the list.\nNote: The settings are set according to the current company. So if you want the same setting to be reflected for another company, then you will have to open the other company and configure the currency settings from here\nThere are two settings: Default Currency and Currency Format\n1. Default Currency Change the default currency\nThe default is selected as Indian Rupees. Select the required currency from the list below. Then click on SAVE. Now all the reports and data shown in the app will have this currency.\nIf the required currency is not displayed in the list then please contact Biz Analyst (contact@siliconveins.com) to request to add the required currency to the list\n2. Currency Format Change the format in which amount is displayed\nIndian currency format (lakhs and crores) is the default format. If you need the amount to be displayed as millions and billions, then choose click on International. Then click on SAVE to save the changed format. Now all the reports and data shown in the app will have this currency format.\n"
+},
+{
+	"uri": "/android/settings/invoice/",
+	"title": "Invoice",
+	"tags": [],
+	"description": "",
+	"content": " Open the navigation bar and then click on the Settings icon.\nClick on the Invoice icon from the list to configure the information shown while sharing your invoices.\nYou will see a list of configurations and their descriptions. Note: The settings are set according to the current company. So if you want the same setting to be reflected for another company, then you will have to open the other company and configure the invoice share settings from here\nNote: If you haven\u0026rsquo;t created a bank ledger for the current company in Tally, then you will not see the setting for showing bank account in the settings. Hence, your invoice setting screen will be as shown below\n1. Change configuration Click on the relevant checkboxes to add or remove the configurations.\n2. Change Declaration To change the declaration, click on the Declaration setting.\nClick on the check box to change the default declaration. The default declaration in the app can be seen below the checkbox in gray.\n2.A. Blank Declaration If you do not want to provide any declaration in your invoices, then leave the text area blank. Then click on SAVE to save this setting. Now, no declaration shall be shown on sharing your invoices.\n2.B. Custom Declaration If you want to provide a new declaration, then type the new text in the text area as shown in the image. Then click on SAVE to save this setting. Now, the new declaration will be shown on all shared invoices.\n3. Select Bank Account Here you can select which bank account to be shown for the company. Only the bank accounts added by creating a Bank Ledger in Tally shall be shown here.\nBy default no bank account is shown in the invoice. If you have already selected a bank, and want that the bank account should not be shown in the invoice, then click on No. Now no bank account will be shown for invoices shared from the current company.\nIf you want to change the bank account shown in the invoices for the current company, then select the appropriate bank from the list below. Now only this bank\u0026rsquo;s account will shown in the invoices for current company.\n"
+},
+{
+	"uri": "/android/settings/outstanding/",
+	"title": "Outstanding",
+	"tags": [],
+	"description": "",
+	"content": " Open the navigation bar and then click on the Settings icon.\nClick on the Outstanding icon from the list to configure the information shown while sharing your Outstandings.\nYou will see a list of configurations and their descriptions.\nNote: The settings are set according to the current company. So if you want the same setting to be reflected for another company, then you will have to open the other company and configure the outstanding settings from here\n1. View Outstanding by You can change the overdue bills shown by calculating using bill date or due date by clicking the setting\nSelect the calculation method by clicking the method\n2. Ageing configuation You can change the configuration of the ageing period for receivables and payables\nYou can customize the settings shown for ageing by changing the To period. Once, you have set the periods, click on SAVE to set this configuration for the current company.\n3. Columns to share You can select the field that you would like to send while sharing the outstanding\nOutstanding information can be shared via text, pdf or excel. So will have to check / uncheck the columns shown for each of share methods.\n"
+},
+{
+	"uri": "/android/settings/ledger-report/",
+	"title": "Ledger Report",
+	"tags": [],
+	"description": "",
+	"content": "Open the navigation bar and then click on the Settings icon.\nClick on the Ledger Report icon from the list to configure the information shown while sharing your reports.\nYou will see the option to add narration in the ledger report while sharing.\nNote: The settings are set according to the current company. So if you want the same setting to be reflected for another company, then you will have to open the other company and configure the Ledger Report settings from here\n"
+},
+{
+	"uri": "/android/settings/share/",
+	"title": "Share",
+	"tags": [],
+	"description": "",
+	"content": " Open the navigation bar and then click on the Settings icon.\nClick on the Share icon from the list to configure the information shown while sharing your reports.\nYou will see a list of settings.\nNote: The settings are set according to the current company. So if you want the same setting to be reflected for another company, then you will have to open the other company and configure the invoice share settings from here\n1. Signature Customize the signature while sending out emails, messages etc. Click on the check box to change the default declaration. The default declaration in the app can be seen below the checkbox in gray.\n2.A. Blank Signature If you do not want to provide any signature in your shared reports, then leave the text area blank. Then click on SAVE to save this setting. Now, no signature shall be shown on sharing your invoices.\n2.B. Custom Signature If you want to provide a new signature, then type the new text in the text area as shown in the image. Then click on SAVE to save this setting. Now, the new signature will be shown on all shared invoices.\n3. PDF Preview On selection, it allows you to preview PDF before sending it.\nNote: This feature only works for devices having Android version Lollipop or higher\n4. PDF Footer On selection, it removes the Biz Analyst Footer while sharing reports.\n"
+},
+{
+	"uri": "/android/settings/default-screen/",
+	"title": "Default Screen",
+	"tags": [],
+	"description": "",
+	"content": "Open the navigation bar and then click on the Settings icon.\nClick on the Default Screen icon from the list to configure the information shown while sharing your reports.\nYou will see list of default screens. You can configure which screen should you see first when you open the app. Then click on SAVE to save this setting.\n"
+},
+{
+	"uri": "/android/settings/date/",
+	"title": "Date",
+	"tags": [],
+	"description": "",
+	"content": " Open the navigation bar and then click on the Settings icon.\nClick on the Date Setting icon from the list to configure the information shown while sharing your reports.\nYou will see list of settings for default period for showing information and financial year.\n1. Default Date You can change the default period selected for showing the information in the app. Click on the setting to change the default period.\nThe following options are for the default period. The default is current financial year. Then click on SAVE to save this setting.\n2. Financial Year You can change the default financial year for which the data is shown.\nThe following options are for the financial year periods. If your country has a different financial year, then contact us at contact@siliconveins.com\n"
+},
+{
+	"uri": "/android/faqs/",
+	"title": "FAQs",
+	"tags": [],
+	"description": "",
+	"content": " 1. Security 1. A. Manage Permissions 1. B. Add Passcode 1. C. Change Passcode 1. D. Remove Passcode 1. E. Forgot Password 1. A. Reset Password 2. User Management 2. A. Add User 2. B. Add Permission to User 2. C. Remove User 2. D. Verify Email 3. Company Management 3. A. Change Company 3. B. Remove Demo Company 4. Subscription 4. A. Purchase Subscription 4. B. Pending Subscription Invoice "
+},
+{
+	"uri": "/android/faqs/add-passcode/",
+	"title": "Add Passcode",
+	"tags": [],
+	"description": "",
+	"content": "Open the navigation bar and then click on the Set Passcode icon.\nThen you enter a 4 digit passcode. You will also be required to re-enter the passcode. Then click on SET. Now this passcode is set for the app.\nOnce you exit the app, then the passcode is required to re-enter the app. If you have a fingerprint sensor on your phone then, you can even use that to enter the app.\n"
+},
+{
+	"uri": "/android/faqs/add-user/",
+	"title": "Add User",
+	"tags": [],
+	"description": "",
+	"content": "Open the navigation bar and then click on the Users icon.\nNote: You will be able to add a user only if you are an admin for the current company. If you are not an admin then you won\u0026rsquo;t be able to see the Users icon in the navigation bar.\nClick on the orange + button\nEnter the name and email id in the given places as shown below. Ensure that you are entering the correct email id.\nOnce, the user is successfully added, you will be taken to the permissions page. Here you can assign the required permissions to the user. By default the user will be given an admin permission. After giving the required permission, click on SAVE.\nOnce, the permission is saved, then you will be taken back to the users page. Here, you will see the newly added user to the company. An email is also sent to the user informing him/her that he/she has been added to the company.\n"
+},
+{
+	"uri": "/android/faqs/change-passcode/",
+	"title": "Change Passcode",
+	"tags": [],
+	"description": "",
+	"content": "Open the navigation bar and then click on the Passcode icon.\nNow you have to enter the current passcode. Then type the new 4 digit passcode and re-enter it below. Then click on SET. Now this passcode is set for the app.\nOnce you exit the app, then the passcode is required to re-enter the app. If you have a fingerprint sensor on your phone then, you can even use that to enter the app.\n"
+},
+{
+	"uri": "/android/faqs/forgot-password/",
+	"title": "Forgot Password",
+	"tags": [],
+	"description": "",
+	"content": "If you have forgotten your password while logging in, then you can click on the Forgot Password to initiate the process to reset it.\nYou will now have to confirm the email you used to signup into the app. Ensure that you have entered the correct email. Then click on the SEND RESET LINK button.\nYou will be sent an email to entered email address. Please open the email. Click on the RESET PASSWORD button.\nNote: If you don\u0026rsquo;t see the email in your inbox then please check your spam, trash and other folders\nYou will be taken to a page where you have to enter the new password. Then click on SET PASSWORD.\nOnce, your new password is successfully set, go to your app and login with the new password.\n"
+},
+{
+	"uri": "/android/faqs/manage-permissions/",
+	"title": "Manage Permissions",
+	"tags": [],
+	"description": "",
+	"content": " Open the navigation bar and then click on the Users icon.\nNote: You will be able to add a user only if you are an admin for the current company. If you are not an admin then you won\u0026rsquo;t be able to see the Users icon in the navigation bar.\nClick on the user whose permission you want to change.\nYou will be shown the permissions the user has.\n1. Make Admin Click on the checkbox to make a user admin. Then click on SAVE. Now the user can see all the data of the company and can even add other users.\nYou can also remove a user from admin permission by clicking on the same checkbox.\n2. Give Only Sales Permission Click on the All below Access by Ledger Group. By default the user has access to all the ledger groups.\nNote: You can give permission to other ledger groups similarly\nUncheck SELECT ALL and then click on Sundry Debtors.\nClick on the tick. Then you are taken back to the permissions page.\nYou can see 1 Ledger Group permitted for the user. Click on SAVE so give the permission to the user. Now the user can see all sales ledgers.\n3. Give Only Purchase Permission Click on the All below Access by Ledger Group. By default the user has access to all the ledger groups.\nNote: You can give permission to other ledger groups similarly\nUncheck SELECT ALL and then click on Sundry Creditors.\nClick on the tick. Then you are taken back to the permissions page.\nYou can see 1 Ledger Group permitted for the user. Click on SAVE so give the permission to the user. Now the user can see all purchase ledgers.\n4. Give Stock Group Permission Click on the All below Access by Stock Group. By default the user has access to all the Stock groups.\nNote: You can give permission to other Stock groups similarly\nUncheck SELECT ALL and then click on whichever stock groups you want to give permission. If you don\u0026rsquo;t want the user to see any stock groups then, select none of the groups shown.\nClick on the tick. Then you are taken back to the permissions page.\nYou can see 1 Stock Group permitted for the user. Click on SAVE so give the permission to the user. Now the user can see all Stock Groups.\n5. Give Voucher Type Permission Click on the All below Access by Voucher Type. By default the user has access to all the Voucher Types.\nNote: You can give permission to other Voucher Types similarly\nUncheck SELECT ALL and then click on whichever Voucher Types you want to give permission. If you don\u0026rsquo;t want the user to see any Voucher Types then, select none of the types shown.\nClick on the tick. Then you are taken back to the permissions page.\nYou can see 2 Voucher Types permitted for the user. Click on SAVE so give the permission to the user. Now the user can see all Voucher Types.\n6. Give Expenses Permission Click on the expenses check box and then click on SAVE. Now the user can access information related to expenses\n7. Give Share Report Permission Click on the share report check box and then click on SAVE. If you have not given the permission to share report, the user will not be able to share any of the reports in the app. The user can still, share invoices and bills.\n"
+},
+{
+	"uri": "/android/faqs/remove-demo-company/",
+	"title": "Remove Demo Company",
+	"tags": [],
+	"description": "",
+	"content": "Open the navigation bar and then click on the Companies icon.\nYou will see all the companies for which you have a permission. Select Demo Company.\nYou will be automatically taken to the default screen and data for the demo company will be shown.\nOpen the navigation bar and then click on the Users icon.\nThen you will see your name in the user list. Click on it.\nClick on the X button.\nYou will be asked to confirm this. If you press CANCEL, then no action will be taken. If you click on CONFIRM, then you will no longer see the demo company and stop receiving notifications for it. The data for the demo company shall also be wiped from your phone.\nOnce, you have removed yourself, you will be taken to the companies page. Here you will see the updated list of companies where there will be no Demo Company\n"
+},
+{
+	"uri": "/android/faqs/remove-passcode/",
+	"title": "Remove Passcode",
+	"tags": [],
+	"description": "",
+	"content": "Open the navigation bar and then click on the Passcode icon.\nTo remove the passcode, click on the cross mark at the top of the screen.\nTo remove the passcode, you will have to first enter the passcode. Then click on remove. If you have a fingerprint sensor on your phone then, you can approve the removal from the fingerprint sensor.\n"
+},
+{
+	"uri": "/android/faqs/remove-user/",
+	"title": "Remove User",
+	"tags": [],
+	"description": "",
+	"content": "Open the navigation bar and then click on the Users icon.\nNote: You will be able to add a user only if you are an admin for the current company. If you are not an admin then you won\u0026rsquo;t be able to see the Users icon in the navigation bar.\nClick on the user that you want to remove from the company. You will be shown the permissions the user has.\nClick on the X button.\nYou will be asked to confirm this. If you press CANCEL, then no action will be taken. If you click on CONFIRM, then the user will have no permission to see the data for the current company. A notification will be sent to the user and all his/her data pertaining to the current company will be wiped off from all the devices from which the user has logged in. In addition to this, the current company will also not be visible to the user in the companies list.\nOnce, the user is successfully removed, you will be taken to the users page. Here you will see the updated users with permission to see the data. You will not see the removed user.\n"
+},
+{
+	"uri": "/android/faqs/reset-password/",
+	"title": "Reset Password",
+	"tags": [],
+	"description": "",
+	"content": "You can even reset the password from inside the app. Open the navigation bar and click on the Forgot Password icon to initiate the process to reset it.\nYou will now have to confirm the email you used to signup into the app. Ensure that you have entered the correct email. Then click on the SEND RESET LINK button.\nYou will be sent an email to entered email address. Please open the email. Click on the RESET PASSWORD button.\nNote: If you don\u0026rsquo;t see the email in your inbox then please check your spam, trash and other folders\nYou will be taken to a page where you have to enter the new password. Then click on SET PASSWORD.\nOnce, your new password is successfully set, go to your app and login with the new password.\n"
+},
+{
+	"uri": "/android/faqs/verify-email/",
+	"title": "Verify Email",
+	"tags": [],
+	"description": "",
+	"content": "After you signup, you will see a message on the app that your email is not verified. This means that we do not know whether an accurate email id was entered.\nAfter you signup, you will be sent an email with the subject as \u0026ldquo;BizAnalyst Verify Your Email\u0026rdquo;. Click on the VERIFY EMAIL button. Then your email will get verified.\nClick on the message on your mobile.\nThen the message will vanish.\n"
+},
+{
+	"uri": "/android/faqs/purchase-subscription/",
+	"title": "Purchase Subscription",
+	"tags": [],
+	"description": "",
+	"content": " Purchase Subscription Click on the Purchase Subscription icon in the navigation bar.\nYou will be taken to a web page that displays the various purchase options. By default price for a single device, 1 year is shown. You can see the various 1 year plans in the top of the screen. You can click on the + button to increase the number of devices. You will see the price automatically change in the PAY button. THe price shown includes an 18% GST.\nYou can also take subscriptions for more than 1 year. Click on the + button to increase the number of years. Maximum allowed is a 3 year subscription.\nNow you can see the price of 2 devices, 2 year subscription. You are automatically given a 10% discount for taking a 2 year subscription. A 3 year subscription gives 15% discount. Once, you click on the PAY button, you are taken to the payment gateway.\nThere are many methods through which you can make the payment.\nCredit/ Debit Card On the payment gateway, click on the Card icon.\nSelect the bank you want.\nNet Banking On the payment gateway, click on the Net Banking icon.\nSelect the bank you want from the dropdown.\nYou will be taken the net banking page of the selected bank. You will need to login and the amount to be paid will be shown.\nGet Invoice On successful payment, you will be taken to the invoice page to generate your invoice. You can edit your invoice only once. So please fill in the details carefully. Ensure that you have your GST Number handy with you. Once you have filled in the details, click on the GET INVOICE button. On clicking the button an email will be sent to the email id you filled in the invoice details.\nThe following email is sent on filling the invoice. Click on the GET INVOICE button, then you will take you to the screen to download the invoice. The invoice will then be automatically downloaded on to your device.\n"
+},
+{
+	"uri": "/android/faqs/pending-invoice/",
+	"title": "Pending Invoice",
+	"tags": [],
+	"description": "",
+	"content": " Pending Invoices You can use this to generate an invoice on successful payment if you have not already generated your invoice. Click on the Pending Invoices icon in the navigation bar.\nClick on the payment details for which you want the invoice to be generated.\nYou will be taken to the invoice page to generate your invoice. You can edit your invoice only once. So please fill in the details carefully. Ensure that you have your GST Number handy with you. Once you have filled in the details, click on the GET INVOICE button. On clicking the button an email will be sent to the email id you filled in the invoice details.\nThe following email is sent on filling the invoice. Click on the GET INVOICE button, then you will take you to the screen to download the invoice. The invoice will then be automatically downloaded on to your device.\n"
+},
+{
+	"uri": "/android/screens/",
+	"title": "Screens",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/android/screens/cash-bank-balance/",
+	"title": "Cash / Bank Balance",
+	"tags": [],
+	"description": "",
+	"content": " Scroll down on the dashboard screen. Click on the Cash / Bank Balance on the dashboard.\nList finances of the current company for the selected period. You can see in depth report by clicking on one of the items in the list.\nYou will be shown all the bank accounts and the amount in them.\n1. How to see which receipt was credited to a bank account? Select the required bank.\nYou will see a list of receipts.\nClick on a receipt to see the details\n"
+},
+{
+	"uri": "/android/screens/dashboard/",
+	"title": "Dashboard",
+	"tags": [],
+	"description": "",
+	"content": "Dashboard is the default screen. It shows the total for all sections for selected time period. There following sections on Dashboard.\n Sales Purchase Receipt Payment Receivable Payable Cash / Bank Balance Sales Order Purchase Order Delivery Note Receipt Note  Last Sync Date shows time of last data fetched from server. On clicking of that bar you can fetch lastest data from server.\n"
+},
+{
+	"uri": "/android/screens/items/",
+	"title": "Items",
+	"tags": [],
+	"description": "",
+	"content": " Click on the party icon on the dashboard\nYou will see a list of parties. Select a Item to see its details\nNow you will see a summary of the transactions with the Item for the selected period\n1. See Items in a Group Click on the GROUP button on the summary screen\nThen you will see the list of Stock Groups\nThen click on the required Stock Group\nList of items in the Stock Group shall be shown\n2. See Items in a Category Click on the CATEGORY button on the summary screen\nThen you will see the list of Stock Categories. Then click on the required Stock Category.\nList of items in the Stock Category shall be shown\n3. Get Item Details Click on the CATEGORY button on the summary screen\nThen you will see the list of Stock Categories. Then click on the required Stock Category.\nList of items in the Stock Category shall be shown. Select the required item from the list\nYou will be shown the summary of the details for the items\n3.A. Get Customers of the Item Click on the CUSTOMERS button to see the list of customers who bought the item in the selected period\nYou will be shown the list of customers and the transaction details\n3.B. Get Suppliers of the Item Click on the SUPPLIERS button to see the list of suppliers from whom you bought the item in the selected period\nYou will be shown the list of Suppliers and the transaction details\n"
+},
+{
+	"uri": "/android/screens/party/",
+	"title": "Party",
+	"tags": [],
+	"description": "",
+	"content": " Click on the party icon on the dashboard\nYou will see a list of parties. Select a party to see its details\nNow you will see a summary of the transactions with the party for the selected period\n1. Items Sold to Party Click on the SOLD button on the summary screen\nThen you will see the items sold to the selected party\n2. Items Purchased from Party Click on the PURCHASED button on the summary screen\nThen you will see the items purchased from the selected party\n3. See the Ledger Report for the Party Click on the icon for Ledger Report on the summary screen\nThen you will see the Ledger Report purchased for the selected party\n"
+},
+{
+	"uri": "/android/screens/payable/",
+	"title": "Payable",
+	"tags": [],
+	"description": "",
+	"content": "Scroll down on the dashboard screen. Click on the Payable on the dashboard.\nThe payable screen is similar to the Receivable screen. Click here to see the details.\n"
+},
+{
+	"uri": "/android/screens/payment/",
+	"title": "Payment",
+	"tags": [],
+	"description": "",
+	"content": "Click on the Payment button on the dashboard\nThe Payment screen is similar to the Receipt screen. Click here to see the details.\n"
+},
+{
+	"uri": "/android/screens/purchase-order/",
+	"title": "Purchase Order",
+	"tags": [],
+	"description": "",
+	"content": "Click on the Purchase Order button on the dashboard\nThe Purchase Order screen is similar to the Sales Order screen. Click here to see the details.\n"
+},
+{
+	"uri": "/android/screens/purchase/",
+	"title": "Purchase",
+	"tags": [],
+	"description": "",
+	"content": "Click on the Purchase button on the dashboard\nThe purchase screen is similar to the Receipt screen. Click here to see the details.\n"
+},
+{
+	"uri": "/android/screens/receivable/",
+	"title": "Receivable",
+	"tags": [],
+	"description": "",
+	"content": " Scroll down on the dashboard screen. Click on the Receivable on the dashboard.\nList of receivables grouped by companies are displayed.\n1. How to see a Receivable Voucher/Bill details Click on the selected company.\nYou will see a list of vouchers. Select the required voucher.\nThe details of the voucher/bill is displayed.\n2. How to see receivables for a particular period? Click on the period filter icon on the screen\nSelect the period for which you want to see the receivables\n2.A. How to see receivable till a particular date? Click on the Custom button in the period filter.\nThen select the date till which you want to see the receivables\n"
+},
+{
+	"uri": "/android/screens/receipt/",
+	"title": "Receipt",
+	"tags": [],
+	"description": "",
+	"content": " Click on the Receipt on the dashboard.\nYou will see the total of all receipts grouped by companies for the selected period. The companies are sorted alphabetically. Click on the name of the required company.\nYou will see a list of receipts for the company. Now select the receipt whose details you would like to see.\nNow you shall see the details of the selected receipt\n1. How to filter by Receipt type? Click on the filter marked in the picture. The dropdown will show all the Receipt Types that you have set. Default type, Receipt is shown.\n"
+},
+{
+	"uri": "/android/screens/sales-order/",
+	"title": "Sales Order",
+	"tags": [],
+	"description": "",
+	"content": " Scroll down on the dashboard screen. Click on the Sales Order on the dashboard.\nList of Sales Orders grouped by companies are displayed. Click on the company to see sales order vouchers for the company.\nClick on the required sales order voucher\nNow you will see the voucher details.\n1. How to filter by Sales Order type? Click on the filter marked in the picture. The dropdown will show all the Sales Order Types that you have set. Default type, Sales Order is shown.\n"
+},
+{
+	"uri": "/android/screens/sales/",
+	"title": "Sales",
+	"tags": [],
+	"description": "",
+	"content": " Click on the SALES data on the dashboard\nNow, you can see the total sales, net and gross amount. Its show partywise Sales total.\n1. How to filter the sales User can see the sales with different filter. There are following filter options.\n Ledger Ledger Group Voucher Type Stock Item Stock Group Stock Category Cost Center Cost Category Month  On clicking Stock Item, the data is shown by stock item. The stock items can further be clicked to show their data\nThe data for the stock item is shown. You can further drill down the information using the filters available.\n2. How to see the bills You have to ensure the Group By filter is Ledger. Then click on the required company/stock item/ stock group etc.\nThen you will see the list of bills. Clicking on the bill number will display the details.\nThe bill details are shown below.\n"
+},
+{
+	"uri": "/android/reports/",
+	"title": "Reports",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/android/reports/day-book/",
+	"title": "Day Book",
+	"tags": [],
+	"description": "",
+	"content": " At the bottom of the dashboard screen, click on the Reports icon.\nYou will see a list of reports. Click on the Day Book report.\nAll transactions of the current day are shown. If no transactions are entered in Tally then no data is shown\n1. Change Daybook period Click on the daybook period icon.\nThen select the appropriate period for which you want to see the daybook.\n2. Select Voucher types in Daybook Click on the voucher type icon.\nBy default, all voucher types are selected. Click on All Voucher Types to deselect.\nThen select the required voucher types. Then click on SUBMIT.\nNow you can see only the selected Voucher Types in the daybook\n"
+},
+{
+	"uri": "/android/reports/expenses/",
+	"title": "Expenses",
+	"tags": [],
+	"description": "",
+	"content": "At the bottom of the dashboard screen, click on the Reports icon.\nYou will see a list of reports. Click on the Expenses report\nNow the expenses report will open with two categories: Direct \u0026amp; Indirect Expenses. You can drilldown the information by clicking on the required type of expense.\nSelect the expense whose in depth information you need to see.\nYou will see a list of vouchers. You can get further insights by clicking the individual vouchers.\n"
+},
+{
+	"uri": "/android/reports/inactive-customers/",
+	"title": "Inactive Customers",
+	"tags": [],
+	"description": "",
+	"content": " At the bottom of the dashboard screen, click on the Reports icon.\nYou will see a list of reports. Click on the Inactive Customers report.\nBy default, list of customers is shown sorted in descending order according to the last time any item was sold to the customer. You can click on the customer\u0026rsquo;s name.\nThe summary of transactions with the customer is shown on clicking the name.\n1. Change the date filter Click on the filter icon. By default, only customers whom you haven\u0026rsquo;t sold any items are shown. 2. Change the Group Click on the group dropdown By default, only customers whom you haven\u0026rsquo;t sold any items are shown. "
+},
+{
+	"uri": "/android/reports/inactive-items/",
+	"title": "Inactive Items",
+	"tags": [],
+	"description": "",
+	"content": " At the bottom of the dashboard screen, click on the Reports icon.\nYou will see a list of reports. Click on the Inactive Items report.\nBy default, list of items is shown sorted in descending order according to the last time any item was sold. You can click on the item to get more details.\nYou can see the summary of the item for the selected period\n1. Filter by stock Click on the stock icon\nBy default, in stock items are shown. You can change the items by clicking on the options.\n2. Filter by Period Click on the date filter icon\nBy default, in stock items which have not sold for more than 30 days are shown.\n"
+},
+{
+	"uri": "/android/reports/ledger-report/",
+	"title": "Ledger Report",
+	"tags": [],
+	"description": "",
+	"content": "At the bottom of the dashboard screen, click on the Reports icon.\nYou will see a list of reports. Click on the Ledger Report report.\nYou will see a list of ledgers. Select the required company.\nNow a list of vouchers is displayed. Select the required voucher.\nThen you can see the voucher details\n"
+},
+{
+	"uri": "/android/reports/pending-purchase-order/",
+	"title": "Pending Purchase Order",
+	"tags": [],
+	"description": "",
+	"content": "At the bottom of the dashboard screen, click on the Reports icon.\nYou will see a list of reports. Click on the Pending Purchase Order report.\nThe Pending Purchase Order screen is similar to the Pending Sales Order screen. Click here (add link) to see the details.\n"
+},
+{
+	"uri": "/android/reports/pending-sales-order/",
+	"title": "Pending Sales Order",
+	"tags": [],
+	"description": "",
+	"content": " At the bottom of the dashboard screen, click on the Reports icon.\nYou will see a list of reports. Click on the Pending Sales Order report.\nList of companies with pending sales is shown\n1. Find a sales order Click on the required company\nYou will find a list of orders. Click on the required sales order.\nNow, you can see the details of the sales order\n2. Find sales order by Ledger Group Click on the ledger group dropdown.\nYou can see a list of ledger groups. Select the required ledger group to see pending sales for that ledger group.\n"
+},
+{
+	"uri": "/android/reports/profit-and-loss/",
+	"title": "Profit &amp; Loss",
+	"tags": [],
+	"description": "",
+	"content": "At the bottom of the dashboard screen, click on the Reports icon.\nYou will see a list of reports. Click on the Profit \u0026amp; Loss report.\nThe profit and loss for the selected period is shown\nYou can click on any of the components to see them in detail\nYou can see the breakup of the component below\n"
+},
+{
+	"uri": "/android/reports/top-report/",
+	"title": "Top Report",
+	"tags": [],
+	"description": "",
+	"content": " At the bottom of the dashboard screen, click on the Reports icon.\nYou will see a list of reports. Click on the Top Report report.\nBy default top 5 Customers are shown. On clicking on a supplier/customer, you will see the purchases/sales respectively. On clicking on an item you will be shown the summary for the item.\n1. How to change the number of top customers/suppliers/items? Click on the filter icon on the top.\nYou can see a list of options. On clicking All, the all the data is shown in a sorted order.\n2. How to change the field? Select the field from the list.\nNow you can see the top 5 items sold in the list below.\n"
+},
+{
+	"uri": "/ios/",
+	"title": "iOS",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/ios/setup/",
+	"title": "Setup",
+	"tags": [],
+	"description": "",
+	"content": " Download Download the Biz Analyst iOS application from here\nSteps: 1. Sign up Fill in the Sign up form on the Biz Analyst iOS application and click on sign up button. If you have already signed up before from the Biz Analyst Desktop or Mobile application goto Sign in 2. Sign in Use the email and password you choose while signing up to sign in. 3. Select Company Select the company from company list to see company data.\n"
+},
+{
+	"uri": "/ios/settings/",
+	"title": "Settings",
+	"tags": [],
+	"description": "",
+	"content": " Settings: Go to More option in footer. Select Settings from list.\n"
+},
+{
+	"uri": "/ios/settings/currency/",
+	"title": "Currency",
+	"tags": [],
+	"description": "",
+	"content": " Currency: 1. Default Currency Sets the default currency for the app. 2. Currency Format Customize the number format in currency. "
+},
+{
+	"uri": "/ios/settings/invoice/",
+	"title": "Invoice",
+	"tags": [],
+	"description": "",
+	"content": " Invoice: Configure fields you would like to show in your invoice. 1. Include Batches On selection, it shows Batch no \u0026amp; Godown for each Item.\n2. Include Narration On selection, it shows the voucher narration in the invoice.\n3. Declaration Configure the declaration shown in your invoice. 4. Invoice Share GST% On selection, it adds the GST% column while sharing your invoice.\n5. Select Bank Account On Selection, it shows the bank account details in the invoice.\n"
+},
+{
+	"uri": "/ios/settings/outstanding/",
+	"title": "Outstanding",
+	"tags": [],
+	"description": "",
+	"content": " Outstanding: Configure fields you would like to show in your outstanding.\n1. View Outstanding by Calculates your overdue days by bill date or due date. 2. Ageing Config Choose your custom ageing period to be viewed in receivables \u0026amp; payables. 3. Columns to Share Enables you to decide which fields you would like to send while sharing outstanding. "
+},
+{
+	"uri": "/ios/settings/ledger-report/",
+	"title": "Ledger Report",
+	"tags": [],
+	"description": "",
+	"content": " Ledger Report: Configuration while sharing Ledger report.\n1. Include Narration On selection, it shows the narration for each voucher. "
+},
+{
+	"uri": "/ios/settings/share/",
+	"title": "Share",
+	"tags": [],
+	"description": "",
+	"content": " Share: Additional settings while sharing, emailing your customers. 1. Signature Customize the signature while sending out emails, messages etc. 2. PDF Preview On selection, it allows you to preview PDF before sending it.\n3. PDF Footer On selection, it removes the Biz Analyst Footer while sharing reports.\n"
+},
+{
+	"uri": "/ios/settings/default-screen/",
+	"title": "Default Screen",
+	"tags": [],
+	"description": "",
+	"content": " Default Screen: Choose the default screen to open while opening this app. "
+},
+{
+	"uri": "/ios/settings/date/",
+	"title": "Date",
+	"tags": [],
+	"description": "",
+	"content": " Date: Additional settings while sharing, emailing your customers.\n1. Default Date Select the default date period to be shown on the dashboard. 2. Financial Year Select the default financial year of your company. "
+},
+{
+	"uri": "/ios/screens/",
+	"title": "Screens",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/ios/screens/dashboard/",
+	"title": "Dashboard",
+	"tags": [],
+	"description": "",
+	"content": " Dashboard: Show the total of all sections for selected time period. Last Sync Date shows time of last data fetched from server. On clicking of that bar you can fetch lastest data from server. There following sections on Dashboard.\n Sales Purchase Receipt Payment Receivable Payable Cash / Bank Balance Sales Order Purchase Order Delivery Note Receipt Note  "
+},
+{
+	"uri": "/ios/screens/sales/",
+	"title": "Sales",
+	"tags": [],
+	"description": "",
+	"content": " Sales: Show the total sales net and gross amount. Its show partywise Sales total. User can see the sales with different filter. There are following filter options.\n Ledger Ledger Group Voucher Type Stock Item Stock Group Stock Category Cost Center Cost Category Month   User can see bills list for selected filter. User can also see particular bill detail. "
+},
+{
+	"uri": "/ios/screens/purchase/",
+	"title": "Purchase",
+	"tags": [],
+	"description": "",
+	"content": " Purchase: Show the total purchase net and gross amount. Its show partywise Purchase total. User can see the purchase with different filter. There are following filter options.\n Ledger Ledger Group Voucher Type Stock Item Stock Group Stock Category Cost Center Cost Category Month   User can see bills list for selected filter. User can also see perticular bill detail. "
+},
+{
+	"uri": "/ios/screens/receipt/",
+	"title": "Receipt",
+	"tags": [],
+	"description": "",
+	"content": " Receipt: Show the total Receipt amount. Its show partywise Receipt total. User can see bills list for selected party. User can also see perticular bill detail. "
+},
+{
+	"uri": "/ios/screens/payment/",
+	"title": "Payment",
+	"tags": [],
+	"description": "",
+	"content": " Payment: Show the total Payment amount. Its show partywise Payment total. User can see bills list for selected party. User can also see perticular bill detail. "
+},
+{
+	"uri": "/ios/screens/receivable/",
+	"title": "Receivable",
+	"tags": [],
+	"description": "",
+	"content": " Receivable: User can see partywise pending receivable outstanding and total amount. User also apply daywise filter. User can also see pending bills of perticular party. "
+},
+{
+	"uri": "/ios/screens/payable/",
+	"title": "Payable",
+	"tags": [],
+	"description": "",
+	"content": " Payable: User can see partywise pending payable outstanding and total amount. User also apply daywise filter. User can also see pending bills of perticular party. "
+},
+{
+	"uri": "/ios/screens/cash-bank-balance/",
+	"title": "Cash / Bank Balance",
+	"tags": [],
+	"description": "",
+	"content": " Cash / Bank Balance: User can see the balance in the accounts. There are three type of account as follows.\n Cash-In-Hand Bank Accounts Bank OD A/c   User can see list subaccount and balance in above selected account. User can also all transaction(ledger report) made in perticular subaccount. "
+},
+{
+	"uri": "/ios/screens/sales-order/",
+	"title": "Sales Order",
+	"tags": [],
+	"description": "",
+	"content": " Sales Order: Show partywise Sales Order and its total. User can see orders list for selected party. User can also see perticular order detail. "
+},
+{
+	"uri": "/ios/screens/purchase-order/",
+	"title": "Purchase Order",
+	"tags": [],
+	"description": "",
+	"content": " Purchase Order: Show partywise Purchase Order and its total. User can see orders list for selected party. User can also see perticular order detail. "
+},
+{
+	"uri": "/ios/screens/delivery-note/",
+	"title": "Delivery Note",
+	"tags": [],
+	"description": "",
+	"content": " Delivery Note: Show partywise Delivery note and its total. User can see vouchers list for selected party. User can also see perticular voucher detail. "
+},
+{
+	"uri": "/ios/screens/receipt-note/",
+	"title": "Receipt Note",
+	"tags": [],
+	"description": "",
+	"content": " Receipt Note: Show partywise Receipt note and its total. User can see vouchers list for selected party. User can also see perticular voucher detail. "
+},
+{
+	"uri": "/ios/screens/party/",
+	"title": "Party",
+	"tags": [],
+	"description": "",
+	"content": " Party: This section shows list of all party. On selecting party its shows summary of that party like sales, purchase, payment, receipt, receivable, payable. On selecting sold section it shows list of items sold to that party. On selecting purchased section it shows list of items purchased from that party. You can get the basic information of party. "
+},
+{
+	"uri": "/ios/screens/items/",
+	"title": "Items",
+	"tags": [],
+	"description": "",
+	"content": " Items: This shows list of items. User can also see Stock groups and Stock category. User can filter items with different option.\n All Items In Stock Not In Stock Below Reorder Level.   On selecting party its shows summary of that party like sales, purchase, price list. On selecting customers section it shows list of customers to that item sold. On selecting suppliers section it shows list of suppliers to that item purchased. On selecting inventory closing in summary section its show batchwise stock. On selecteing HSN/SAC it shows GST detail of item. On selecting Price List its shows Price Level. "
+},
+{
+	"uri": "/ios/reports/",
+	"title": "Reports",
+	"tags": [],
+	"description": "",
+	"content": " Reports: Go to Reports in footer.\n"
+},
+{
+	"uri": "/ios/reports/expenses/",
+	"title": "Expenses",
+	"tags": [],
+	"description": "",
+	"content": " Expenses: Expense Report shows all direct and indirect expenses. You can also filter direct and indirect expense.\n"
+},
+{
+	"uri": "/ios/reports/top-report/",
+	"title": "Top Report",
+	"tags": [],
+	"description": "",
+	"content": " Top Report: Top Report shows top report of selected category. There are four category.\n Customers Suppliers Item Sold Item Purchased  By default it show top 5 report of selected category. You can also change that number. "
+},
+{
+	"uri": "/ios/reports/profit-and-loss/",
+	"title": "Profit &amp; Loss",
+	"tags": [],
+	"description": "",
+	"content": " Profit \u0026amp; Loss: It shows the profit and loss report for selected period. By default seleted period is current month.\nNote: Gross Profit and Net Profit values are without opening and closing stock.\n"
+},
+{
+	"uri": "/ios/reports/inactive-customers/",
+	"title": "Inactive Customers",
+	"tags": [],
+	"description": "",
+	"content": " Inactive Customers: It show the list of customers that inactive since selected time period. By default that time period is 30 days. You can also filter customer by ledger group.\n"
+},
+{
+	"uri": "/ios/reports/inactive-items/",
+	"title": "Inactive Items",
+	"tags": [],
+	"description": "",
+	"content": " Inactive Items: It show the list of items that inactive since selected time period. By default that time period is 30 days.\n"
+},
+{
+	"uri": "/ios/reports/ledger-report/",
+	"title": "Ledger Report",
+	"tags": [],
+	"description": "",
+	"content": " Ledger Report: Its shows all list of ledgers. You can also filter ledgers by ledger groups. You can also see the detail of selected ledger. "
+},
+{
+	"uri": "/ios/reports/day-book/",
+	"title": "Day Book",
+	"tags": [],
+	"description": "",
+	"content": " Day Book: Day book shows the list of entries made on selected date. By default selected date is today\u0026rsquo;s date. You can also filter daybook by voucher type. You can also see the details of perticular entry.\n"
+},
+{
+	"uri": "/ios/reports/pending-sales-order/",
+	"title": "Pending Sales Order",
+	"tags": [],
+	"description": "",
+	"content": " Pending Sales Order: It shows the list of party\u0026rsquo;s who\u0026rsquo;s oreder is pending. On selecting party you can see the order detail.\n"
+},
+{
+	"uri": "/ios/reports/pending-purchase-order/",
+	"title": "Pending Purchase Order",
+	"tags": [],
+	"description": "",
+	"content": " Pending Purchase Order: It shows the list of party\u0026rsquo;s who\u0026rsquo;s oreder is pending. On selecting party you can see the order detail.\n"
+},
+{
+	"uri": "/ios/faqs/",
+	"title": "FAQs",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/ios/faqs/add-user/",
+	"title": "Add User",
+	"tags": [],
+	"description": "",
+	"content": " Add User: On users screen click on + symbol to add new user. Provide User name and email to add it to current company. After adding user, you can give permission to user. See Manage Permission section.\n"
+},
+{
+	"uri": "/ios/faqs/manage-permissions/",
+	"title": "Manage Permissions",
+	"tags": [],
+	"description": "",
+	"content": " Manage Permissions: In this section you can provide different level access. Admin has full access. If user is not admin it can not add/update/remove user permission. You also can restrict user to perticular ledger group/stock group/voucher type. You also can restrict user to access Expenses. You also can restrict user to share reports.\n"
+},
+{
+	"uri": "/ios/faqs/remove-user/",
+	"title": "Remove User",
+	"tags": [],
+	"description": "",
+	"content": " Remove User: You can also remove particular user from your company. Click on x symbol on header to remove user.\n"
+},
+{
+	"uri": "/ios/faqs/change-company/",
+	"title": "Change Company",
+	"tags": [],
+	"description": "",
+	"content": " Change Company: To change the company, go to Companies and select company to see its data.\n"
+},
+{
+	"uri": "/ios/faqs/add-passcode/",
+	"title": "Add Passcode",
+	"tags": [],
+	"description": "",
+	"content": " Add Passcode: You can also set passcode to app. It will ask everytime when you open the app. Go to Passcode and set passcode.\n"
+},
+{
+	"uri": "/ios/faqs/remove-passcode/",
+	"title": "Remove Passcode",
+	"tags": [],
+	"description": "",
+	"content": " Remove Passcode: To remove passcode, Go to Passcode select Remove Passcode. Provide your current passcode.\n"
+},
+{
+	"uri": "/ios/faqs/change-passcode/",
+	"title": "Change Passcode",
+	"tags": [],
+	"description": "",
+	"content": " Change Passcode: To change passcode, Go to Passcode select Change Passcode. Provide your current passcode and set new passcode.\n"
+},
+{
+	"uri": "/ios/faqs/reset-password/",
+	"title": "Reset Password",
+	"tags": [],
+	"description": "",
+	"content": " Reset Password: To reset password provide your email id from which you have logged in to app. It will send reset link to your email.\n"
+},
+{
+	"uri": "/",
+	"title": "Biz Analyst Docs",
+	"tags": [],
+	"description": "",
+	"content": " Overview Biz Analyst is a \u0026quot;Tally on mobile\u0026quot; application which sync\u0026rsquo;s your Tally ERP 9 data and shows it on your mobile. You can view Sales, Purchase, Receivable, Payable, Cash / Bank balances, Delivery Note, Receipt Note, Sales Order, Purchase Order, Party, Items, Inactive Customers, Inactive Items, Ledger Report, Day Book and many more things on your mobile.\nOur platform consists of two applications: 1. Desktop app 2. Mobile app (Android / IOS)\n1. Desktop app It is the medium which sync\u0026rsquo;s your Tally ERP 9 data with Biz Analyst Android/IOS app. It resides on your computer where Tally ERP 9 is installed.\nYou can manage (add, edit, delete) your Tally ERP 9 companies whose data you want to see on your mobile through this app.\nThe Biz Analyst Desktop app fetches data from your Tally ERP 9 (for the companies which you have added in Biz Analyst to sync) then encrypt\u0026rsquo;s that data and saves it on our server (hosted on Amazon Web Services).\nIt periodically checks for any changes in Tally ERP 9 data and only saves the new data on the server instead of fetching everything again.\nThe Sync runs automatically and no user intervention is required.\n2. Android / IOS app This is the app you install on your phone to see your synced Tally ERP 9 data. You get a list of companies from the ones you\u0026rsquo;ve added on Biz Analyst through the Desktop application.\nSelecting a company from the list downloads its corresponding data from our server to your mobile device and later on decrypt\u0026rsquo;s it for you to see.\nYou can set a Passcode (feature built-in) for the app so no other person can access your data without your permission.\n"
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
